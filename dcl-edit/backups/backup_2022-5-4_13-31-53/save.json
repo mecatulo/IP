@@ -1,0 +1,1027 @@
+{
+    "entityNumberCounter": 193,
+    "entities": [
+        {
+            "hierarchyOrder": 50.0,
+            "name": "Ground Floor Sci Fi 03",
+            "uniqueNumber": 127,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":32.0,\"y\":0.0,\"z\":32.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":4.0,\"y\":1.0,\"z\":4.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"701cc3c3-5cd6-456d-9fa3-e19dca0abcc9\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 52.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 128,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":0.0,\"z\":41.85200119018555},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 51.0,
+            "name": "Hallway Module Straight 02",
+            "uniqueNumber": 130,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.459000110626221,\"y\":0.0,\"z\":29.93199920654297},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"554ced1a-53e8-410e-9d7d-c8fda10d5a19\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 49.0,
+            "name": "Hallway Module Straight Half 01",
+            "uniqueNumber": 131,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":18.586999893188478,\"y\":0.0,\"z\":6.860000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"33d29797-f7f7-468e-a38c-f2b901eb34dc\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 48.0,
+            "name": "Hallway Module Curve 01",
+            "uniqueNumber": 132,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.464000225067139,\"y\":0.0,\"z\":50.82500076293945},\"rot\":{\"x\":0.0,\"y\":-0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"422c23db-db57-42b7-b6d2-d2b66086e3e6\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 45.0,
+            "name": "Hallway Module Door 01",
+            "uniqueNumber": 133,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":28.506999969482423,\"y\":0.0,\"z\":3.9730000495910646},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a9950f79-a9d8-4852-bde5-2f8bbd097623\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 46.0,
+            "name": "Hallway Module Door 02",
+            "uniqueNumber": 134,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.4710001945495609,\"y\":3.75,\"z\":50.75299835205078},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"931e436b-3237-4c7e-8969-04beb113c622\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 47.0,
+            "name": "Hallway Module Cross 01",
+            "uniqueNumber": 135,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.454999923706055,\"y\":0.0,\"z\":18.024999618530275},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"cced3b76-4a25-44c3-96c7-a90f687c5eeb\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 40.0,
+            "name": "Knoten1",
+            "uniqueNumber": 142,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.22599983215332,\"y\":0.0,\"z\":50.904998779296878},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Hallway Big Module 01",
+            "uniqueNumber": 136,
+            "parent": 142,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.443999290466309,\"y\":0.0,\"z\":50.83599853515625},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"60085bd6-ddc3-4f42-9443-067e8f27efd5\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "HAL9000 01",
+            "uniqueNumber": 141,
+            "parent": 142,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.174999237060547,\"y\":0.0,\"z\":50.852996826171878},\"rot\":{\"x\":0.0,\"y\":0.1985127031803131,\"z\":0.0,\"w\":0.980098307132721},\"scale\":{\"x\":23.299999237060548,\"y\":1.0,\"z\":23.299999237060548}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"06fdf421-ade5-4bcc-be07-46b394b77be3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Space Ship Base 01",
+            "uniqueNumber": 137,
+            "parent": 142,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.215999603271485,\"y\":3.910022020339966,\"z\":50.972999572753909},\"rot\":{\"x\":0.0,\"y\":0.1950872838497162,\"z\":0.0,\"w\":-0.9807859063148499},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"eebf9114-b6d3-487d-a4dc-3b446f186a14\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Space Ship 03",
+            "uniqueNumber": 138,
+            "parent": 142,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.850000381469728,\"y\":4.933000087738037,\"z\":50.847999572753909},\"rot\":{\"x\":0.0,\"y\":0.9044551253318787,\"z\":0.0,\"w\":-0.42656877636909487},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"01e932f1-c682-4f0c-a725-fda506781393\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 43.0,
+            "name": "Hallway Module Curve 01",
+            "uniqueNumber": 144,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.464000225067139,\"y\":3.75,\"z\":50.77399826049805},\"rot\":{\"x\":0.0,\"y\":-0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"422c23db-db57-42b7-b6d2-d2b66086e3e6\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 41.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 145,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":3.75,\"z\":41.85200119018555},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 39.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 146,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":3.75,\"z\":35.915000915527347},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 42.0,
+            "name": "Hallway Module Straight 02",
+            "uniqueNumber": 147,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.459000110626221,\"y\":3.75,\"z\":29.93199920654297},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"554ced1a-53e8-410e-9d7d-c8fda10d5a19\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 38.0,
+            "name": "Floor Sci Fi Panel 02",
+            "uniqueNumber": 148,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.860000133514404,\"y\":0.0,\"z\":47.858001708984378},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.4000000953674318,\"y\":1.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"70e53ee1-5628-4850-9220-9be5c6e61c8e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 34.0,
+            "name": "Floor Sci Fi Panel 02",
+            "uniqueNumber": 150,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.860000133514404,\"y\":0.0,\"z\":36.02199935913086},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.4000000953674318,\"y\":1.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"70e53ee1-5628-4850-9220-9be5c6e61c8e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 35.0,
+            "name": "Cryogenic Chamber Base 01",
+            "uniqueNumber": 154,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":18.857999801635743,\"y\":0.0,\"z\":24.631000518798829},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"cb7bb62e-33b4-4625-9da1-b7a01b76a3a3\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 36.0,
+            "name": "Crygenic Chamber Top 01",
+            "uniqueNumber": 155,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":18.863000869750978,\"y\":0.921999990940094,\"z\":24.628999710083009},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"fda8dfd6-cbe1-40bd-a1f4-d917abfbe7f0\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 33.0,
+            "name": "Green House 02",
+            "uniqueNumber": 156,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":35.16999816894531,\"y\":0.0,\"z\":25.82900047302246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"e406f7ca-788d-48bf-a34c-6638ecd7c12c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 30.0,
+            "name": "Health Bed 01",
+            "uniqueNumber": 157,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":0.6190000176429749},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"dfa0655e-3195-4e76-8ba8-6dc3f035ff78\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 32.0,
+            "name": "Air Vent Cap 01",
+            "uniqueNumber": 158,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":-2.184999942779541},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a1a5cef8-a9a7-42c7-9ebf-1708ec3fb74a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 31.0,
+            "name": "Air Vent Curve 01",
+            "uniqueNumber": 159,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":-4.052999973297119},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"e101841f-5445-485a-9865-193795b5915c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 26.0,
+            "name": "Air Vent Curve 02",
+            "uniqueNumber": 160,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":-3.184000015258789},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"a0be3367-3f12-4aba-aa42-530ad993cdfc\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 25.0,
+            "name": "Air Vent Exhaust 01",
+            "uniqueNumber": 161,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":4.125},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"c50c3b07-e9fd-47dc-8cb6-8aeadd223db2\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 23.0,
+            "name": "Antenna 01",
+            "uniqueNumber": 162,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":50.983001708984378,\"y\":11.314000129699707,\"z\":-2.184999942779541},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"b027c558-acca-4282-b699-eace2b33b30a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 28.0,
+            "name": "Antenna 02",
+            "uniqueNumber": 163,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":11.314000129699707,\"z\":0.10300000011920929},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"21ec4d28-d395-416b-897f-5bb3ca98874b\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 29.0,
+            "name": "Antenna 03",
+            "uniqueNumber": 164,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.85900115966797,\"y\":11.314000129699707,\"z\":-1.2710000276565552},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"34b6c89e-516a-4084-aefa-a4035ced13b6\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 27.0,
+            "name": "Button Panel 01",
+            "uniqueNumber": 165,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.515999794006348,\"y\":3.7839999198913576,\"z\":29.329999923706056},\"rot\":{\"x\":0.0,\"y\":0.7301622033119202,\"z\":0.0,\"w\":-0.6832738518714905},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"3d7eeec2-5967-4d75-9e69-b0dedb8ba693\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 20.0,
+            "name": "Pod 01",
+            "uniqueNumber": 167,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":48.108001708984378,\"y\":0.0,\"z\":7.535999774932861},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"2ba7db65-1c9b-401b-b5e8-afc5e159a5ad\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 22.0,
+            "name": "Pod 02",
+            "uniqueNumber": 168,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":49.2760009765625,\"y\":0.0,\"z\":9.375},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"185eb127-b056-4be5-8a20-fe1d21f3805f\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 24.0,
+            "name": "Pod 03",
+            "uniqueNumber": 169,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":52.49700164794922,\"y\":0.0,\"z\":9.375},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"58661b5a-4c74-4085-a98f-487fc3e90dbf\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 21.0,
+            "name": "Dock Curve 01",
+            "uniqueNumber": 171,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.336999893188477,\"y\":3.38700008392334,\"z\":28.42799949645996},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"61f57ae4-2383-489f-927b-4c4dfbf2e3a2\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 17.0,
+            "name": "Dock Door Adapter 01",
+            "uniqueNumber": 172,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.3379998207092289,\"y\":3.38700008392334,\"z\":26.92799949645996},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"568d3dd2-6230-4d7d-9ec2-e91fa7196e78\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 19.0,
+            "name": "Dock Stair 01",
+            "uniqueNumber": 173,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.336999893188477,\"y\":3.3990302085876467,\"z\":29.39466094970703},\"rot\":{\"x\":-1.944776339968257e-9,\"y\":-0.9990097880363464,\"z\":-0.04449129477143288,\"w\":4.36681055759891e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"556f4cbd-b8be-4b52-afc4-592b2a93b83a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 15.0,
+            "name": "Dock Straight 01",
+            "uniqueNumber": 174,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":33.808998107910159,\"y\":4.960999965667725,\"z\":23.018999099731447},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"187dcd98-0939-4650-a573-3ba341dca554\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 18.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 175,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.32699966430664,\"y\":0.0,\"z\":29.4060001373291},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.1629999876022339,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 37.0,
+            "name": "Floor Sci Fi Panel 02",
+            "uniqueNumber": 149,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.860000133514404,\"y\":0.0,\"z\":41.95561981201172},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.4000000953674318,\"y\":1.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"70e53ee1-5628-4850-9220-9be5c6e61c8e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 44.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 143,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":0.0,\"z\":35.915000915527347},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 16.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 177,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":0.0,\"z\":24.013999938964845},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 14.0,
+            "name": "Floor Sci Fi Panel 02",
+            "uniqueNumber": 178,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.860000133514404,\"y\":0.0,\"z\":30.058000564575197},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.4000000953674318,\"y\":1.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"70e53ee1-5628-4850-9220-9be5c6e61c8e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 13.0,
+            "name": "Floor Sci Fi Panel 02",
+            "uniqueNumber": 179,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.860000133514404,\"y\":0.0,\"z\":24.06599998474121},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.4000000953674318,\"y\":1.0,\"z\":3.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"70e53ee1-5628-4850-9220-9be5c6e61c8e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 12.0,
+            "name": "Hallway Module Curve 01",
+            "uniqueNumber": 180,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.47599983215332,\"y\":3.75,\"z\":29.947999954223634},\"rot\":{\"x\":0.0,\"y\":1.0,\"z\":0.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"422c23db-db57-42b7-b6d2-d2b66086e3e6\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 11.0,
+            "name": "Hallway Module Door 02",
+            "uniqueNumber": 181,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.4710001945495609,\"y\":3.75,\"z\":26.951000213623048},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"931e436b-3237-4c7e-8969-04beb113c622\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "Dock Stair 01",
+            "uniqueNumber": 182,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.336999893188477,\"y\":5.0970001220703129,\"z\":32.577999114990237},\"rot\":{\"x\":-1.8304434634686118e-9,\"y\":-0.9991228580474854,\"z\":-0.04187566414475441,\"w\":4.3673047400716317e-8},\"scale\":{\"x\":1.0,\"y\":1.1200000047683716,\"z\":1.2269999980926514}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"556f4cbd-b8be-4b52-afc4-592b2a93b83a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "Dock Curve 01",
+            "uniqueNumber": 183,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.345000267028809,\"y\":7.065929889678955,\"z\":36.449825286865237},\"rot\":{\"x\":0.0,\"y\":1.0,\"z\":0.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"61f57ae4-2383-489f-927b-4c4dfbf2e3a2\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Dock Door Adapter 01",
+            "uniqueNumber": 184,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.360000133514404,\"y\":7.067999839782715,\"z\":38.9630012512207},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":-0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"568d3dd2-6230-4d7d-9ec2-e91fa7196e78\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 185,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.591241836547852,\"y\":0.0,\"z\":29.4060001373291},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.1629999876022339,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 186,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.32699966430664,\"y\":-0.16699999570846559,\"z\":36.652000427246097},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.2999999523162842,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 187,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.590999603271485,\"y\":-0.16417086124420167,\"z\":36.6578254699707},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.2999999523162842,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 188,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.32699966430664,\"y\":3.7269999980926515,\"z\":36.65078353881836},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.1629999876022339,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Dock Column 01",
+            "uniqueNumber": 189,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.590999603271485,\"y\":3.7288291454315187,\"z\":36.6578254699707},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.1629999876022339,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"912a5b04-d345-48de-9243-019b2c7f57b1\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 190,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.460000038146973,\"y\":7.464069843292236,\"z\":29.948108673095704},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Hallway Module Curve 01",
+            "uniqueNumber": 191,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.464000225067139,\"y\":7.464069843292236,\"z\":38.8701057434082},\"rot\":{\"x\":0.0,\"y\":-0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"422c23db-db57-42b7-b6d2-d2b66086e3e6\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Hallway Module Door 02",
+            "uniqueNumber": 192,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.4710001945495609,\"y\":7.468999862670898,\"z\":38.8510627746582},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"931e436b-3237-4c7e-8969-04beb113c622\"}"
+                }
+            ]
+        }
+    ]
+}

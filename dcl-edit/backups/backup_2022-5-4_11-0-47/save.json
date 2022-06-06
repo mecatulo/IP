@@ -1,0 +1,1207 @@
+{
+    "entityNumberCounter": 121,
+    "entities": [
+        {
+            "hierarchyOrder": 65.0,
+            "name": "Empty Entity",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":9.46500015258789,\"y\":0.0,\"z\":7.031000137329102},\"rot\":{\"x\":0.0,\"y\":0.7933533787727356,\"z\":0.0,\"w\":-0.6087614893913269},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 66.0,
+            "name": "Stairs L 01",
+            "uniqueNumber": 34,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.428000450134278,\"y\":0.0,\"z\":12.373000144958496},\"rot\":{\"x\":0.0,\"y\":1.0,\"z\":0.0,\"w\":-7.450580596923828e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"1b46a2ef-ed0d-472b-834c-aebd90578b7d\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 63.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 35,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.086999893188477,\"y\":0.0,\"z\":14.402999877929688},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.2089999914169312,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 64.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 36,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.305000305175782,\"y\":0.0,\"z\":14.402999877929688},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 62.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 37,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.314000129699707,\"y\":0.0,\"z\":14.402999877929688},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.3040000200271607,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 61.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 38,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.059999942779541,\"y\":0.0,\"z\":11.083000183105469},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 57.0,
+            "name": "Floor Fantasy Rocks 01",
+            "uniqueNumber": 41,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.036999702453614,\"y\":0.0,\"z\":8.050999641418457},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"1a43379b-31c4-4fb0-b195-e1dd0371e950\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 60.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 44,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.170999526977539,\"y\":0.0,\"z\":11.71500015258789},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.690999984741211,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 59.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 45,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.915999889373779,\"y\":0.0,\"z\":10.086000442504883},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.2089999914169312,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 55.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 47,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.059999942779541,\"y\":0.0,\"z\":3.1689999103546144},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 58.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 48,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":1.059999942779541,\"y\":0.0,\"z\":1.0640000104904175},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 52.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 49,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.086999893188477,\"y\":0.0,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.2089999914169312,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 56.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 50,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.395000457763672,\"y\":0.0,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0809999704360963,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 54.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 51,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.2729997634887699,\"y\":0.0,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.3040000200271607,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 53.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 52,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.489999771118164,\"y\":0.0,\"z\":1.0640000104904175},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 51.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 53,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.411999702453614,\"y\":0.0,\"z\":5.263999938964844},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 49.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 59,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":14.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 47.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 62,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":13.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 48.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 63,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":12.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 50.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 64,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":11.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 46.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 65,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":10.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 45.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 67,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":8.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 44.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 69,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":6.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 43.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 70,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.548999786376954,\"y\":0.0,\"z\":5.14900016784668},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":0.8410000205039978,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 41.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 71,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":15.131999969482422,\"y\":0.0,\"z\":8.946000099182129},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 42.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 72,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.326000213623047,\"y\":0.0,\"z\":9.307999610900879},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":0.515999972820282,\"y\":0.996999979019165,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 40.0,
+            "name": "Module Stone Straight 01 no Border 2",
+            "uniqueNumber": 73,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.489999771118164,\"y\":0.0,\"z\":5.026000022888184},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.5219999551773072,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8c5dbbff-15d9-404f-b29f-27952d3a73ad\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 36.0,
+            "name": "Module Stone Straight Door 01",
+            "uniqueNumber": 74,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.498000144958496,\"y\":0.0,\"z\":11.0649995803833},\"rot\":{\"x\":0.0,\"y\":0.7071068286895752,\"z\":0.0,\"w\":0.7071068286895752},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"6dcf705c-575d-4774-ac45-4e35a94f7d11\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 39.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 76,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":7.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 37.0,
+            "name": "Vase 04",
+            "uniqueNumber": 79,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.03499984741211,\"y\":4.033999919891357,\"z\":2.367000102996826},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"7a95770e-8486-4e9d-be5a-86ce5b180e62\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 38.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 80,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":3.359999895095825},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 35.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 81,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":5.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 34.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 82,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":4.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 33.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 83,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":9.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 28.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 84,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.572999954223633,\"y\":7.894999980926514,\"z\":5.541999816894531},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 32.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 85,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.131999969482422,\"y\":7.894999980926514,\"z\":1.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":1.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 31.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 86,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.5,\"y\":3.990000009536743,\"z\":2.359999895095825},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 30.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 87,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.588000297546387,\"y\":7.894999980926514,\"z\":9.520999908447266},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 29.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 88,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.562999725341797,\"y\":7.894999980926514,\"z\":12.199000358581543},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":0.6899999976158142,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 23.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 89,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.562999725341797,\"y\":7.894999980926514,\"z\":14.88700008392334},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":0.6899999976158142,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 27.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 90,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.736196517944336,\"y\":7.894999980926514,\"z\":7.1620001792907719},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 26.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 91,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.512999534606934,\"y\":3.984999895095825,\"z\":3.359999895095825},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 25.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 92,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.505999565124512,\"y\":3.990000009536743,\"z\":2.359999895095825},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 24.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 93,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.422196388244629,\"y\":7.894999980926514,\"z\":3.1649999618530275},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":1.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 21.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 94,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.58899974822998,\"y\":7.894999980926514,\"z\":3.2780001163482668},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":0.4560000002384186,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 22.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 95,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.73900032043457,\"y\":7.894999980926514,\"z\":9.682999610900879},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 20.0,
+            "name": "Module Stone Straight 01",
+            "uniqueNumber": 96,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":6.86299991607666,\"y\":7.894999980926514,\"z\":11.75100040435791},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":1.0,\"w\":-4.371138828673793e-8},\"scale\":{\"x\":1.4040000438690186,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"32acfd9b-ead8-4558-b8a2-4bed5f493b6a\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 17.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 99,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":12.5,\"y\":3.990000009536743,\"z\":11.75},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 19.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 100,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.5,\"y\":3.990000009536743,\"z\":11.767999649047852},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 16.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 102,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.5,\"y\":3.990000009536743,\"z\":10.779999732971192},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 18.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 103,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":12.5,\"y\":3.990000009536743,\"z\":10.781999588012696},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 15.0,
+            "name": "Module Stone Straight 01 no Border 2",
+            "uniqueNumber": 105,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.736196517944336,\"y\":7.894999980926514,\"z\":11.866000175476075},\"rot\":{\"x\":0.7071068286895752,\"y\":-3.090862321641907e-8,\"z\":0.7071068286895752,\"w\":-3.090862321641907e-8},\"scale\":{\"x\":0.6330000162124634,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8c5dbbff-15d9-404f-b29f-27952d3a73ad\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 11.0,
+            "name": "Map 01",
+            "uniqueNumber": 106,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":14.526000022888184,\"y\":5.755000114440918,\"z\":10.949000358581543},\"rot\":{\"x\":0.0055535463616251949,\"y\":0.0055535463616251949,\"z\":0.7070850133895874,\"w\":0.7070850133895874},\"scale\":{\"x\":2.9760000705718996,\"y\":1.0,\"z\":1.9889999628067017}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"d7066d26-f2bb-4fb3-8aa8-83404da04272\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 4.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 107,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.532999992370606,\"y\":3.990000009536743,\"z\":11.767999649047852},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 14.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 108,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":9.517000198364258,\"y\":3.990000009536743,\"z\":11.767999649047852},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 12.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 109,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":10.494000434875489,\"y\":3.990000009536743,\"z\":10.779999732971192},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 13.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 110,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":9.49899959564209,\"y\":3.990000009536743,\"z\":10.779999732971192},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 111,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":13.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 9.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 112,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":12.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 6.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 113,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":11.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 5.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 114,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":9.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 115,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":10.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 10.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 116,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":8.359999656677246},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 8.0,
+            "name": "Tile Floor markus no Border 2",
+            "uniqueNumber": 117,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":7.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"700728ff-13c0-4ff1-9aaf-d4a271bebd81\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 118,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":6.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 7.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 119,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.495702743530274,\"y\":3.990000009536743,\"z\":5.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Tile Floor 01",
+            "uniqueNumber": 120,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":13.494999885559082,\"y\":3.990000009536743,\"z\":4.360000133514404},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"8cc124c0-27ab-412b-a1ff-fdec96bb474e\"}"
+                }
+            ]
+        }
+    ]
+}

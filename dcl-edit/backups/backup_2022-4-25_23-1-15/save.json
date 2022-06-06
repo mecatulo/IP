@@ -1,0 +1,73 @@
+{
+    "entityNumberCounter": 21,
+    "entities": [
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Empty Entity",
+            "uniqueNumber": 10,
+            "parent": -1,
+            "exposed": true,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":9.46500015258789,\"y\":0.0,\"z\":7.031000137329102},\"rot\":{\"x\":0.0,\"y\":0.7933533787727356,\"z\":0.0,\"w\":-0.6087614893913269},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Floor Base Grass 01",
+            "uniqueNumber": 14,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.0,\"y\":0.0,\"z\":8.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"f1a5a6ce-80b7-49ab-9a09-972a39b7882f\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "drehtür",
+            "uniqueNumber": 19,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":8.75,\"y\":-0.3499999940395355,\"z\":7.75},\"rot\":{\"x\":0.0,\"y\":0.9238796234130859,\"z\":0.0,\"w\":0.3826834559440613},\"scale\":{\"x\":0.009999999776482582,\"y\":0.009999999776482582,\"z\":0.009999999776482582}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"68dcbad2-f62f-436e-a401-2fedb352caed\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "hecke1",
+            "uniqueNumber": 20,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":0.0,\"y\":0.0,\"z\":0.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"633d60df-86ff-4f8e-b579-20c73a49d5eb\"}"
+                }
+            ]
+        }
+    ]
+}

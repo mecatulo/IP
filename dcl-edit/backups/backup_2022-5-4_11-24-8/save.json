@@ -1,0 +1,23 @@
+{
+    "entityNumberCounter": 126,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Planet Floor Red 02",
+            "uniqueNumber": 125,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":19.34000015258789,\"y\":-0.08399999886751175,\"z\":11.125},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"57a55d62-1c26-4c8e-8173-04eb71ae850e\"}"
+                }
+            ]
+        }
+    ]
+}

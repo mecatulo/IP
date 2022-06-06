@@ -1,0 +1,41 @@
+{
+    "entityNumberCounter": 130,
+    "entities": [
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Ground Floor Sci Fi 03",
+            "uniqueNumber": 127,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":16.0,\"y\":0.0,\"z\":16.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":2.0,\"y\":1.0,\"z\":2.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"701cc3c3-5cd6-456d-9fa3-e19dca0abcc9\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Hallway Module Straight 01",
+            "uniqueNumber": 128,
+            "parent": -1,
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":3.0269999504089357,\"y\":0.0,\"z\":6.629000186920166},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"30f6ef59-241b-475f-8d34-1b234548e14c\"}"
+                }
+            ]
+        }
+    ]
+}
