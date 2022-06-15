@@ -5079,6 +5079,1131 @@
             "name": "Tile Floor markus no Border 2",
             "id": "700728ff-13c0-4ff1-9aaf-d4a271bebd81",
             "gltfPath": "Models Markus/Tile_Floor_01_noBorder/Tile_Floor_markus_noBorder_2.glb"
+        },
+        {
+            "name": "Air Vent Cap 01",
+            "id": "ea4dbbe2-bc74-497c-a1c6-1073c80342d8",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Cap_01/AirVent_Cap_01.glb"
+        },
+        {
+            "name": "Air Vent Curve 01",
+            "id": "14317647-e2c3-4f4d-a9dc-60abe217a845",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Curve_01/AirVent_Curve_01.glb"
+        },
+        {
+            "name": "Air Vent Curve 02",
+            "id": "71a00f40-ca88-4476-9dc9-4db6263ae12d",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Curve_02/AirVent_Curve_02.glb"
+        },
+        {
+            "name": "Air Vent Exhaust 01",
+            "id": "8db1f3ee-946e-4135-8810-b7280e978241",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Exhaust_01/AirVent_Exhaust_01.glb"
+        },
+        {
+            "name": "Air Vent Exhaust 02",
+            "id": "cf0f3d1a-5722-4664-81ee-e1b57a14bdd8",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Exhaust_02/AirVent_Exhaust_02.glb"
+        },
+        {
+            "name": "Air Vent Hang 01",
+            "id": "c2df5a80-aeaa-4f87-80a7-646a8cbb62a4",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Hang_01/AirVent_Hang_01.glb"
+        },
+        {
+            "name": "Air Vent Straight Long 01",
+            "id": "cd526489-4358-4051-9e0b-1b13fb135689",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Straight_Long_01/AirVent_Straight_Long_01.glb"
+        },
+        {
+            "name": "Air Vent Straight Short 01",
+            "id": "8ec083d9-1e71-4fdc-8c43-ba4aabbb7c69",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Straight_Short_01/AirVent_Straight_Short_01.glb"
+        },
+        {
+            "name": "Air Vent Union 01",
+            "id": "544afd14-f871-4e90-a063-287c69b9a4d2",
+            "gltfPath": "assets_github/00_SciFi_Pack/AirVent_Union_01/AirVent_Union_01.glb"
+        },
+        {
+            "name": "Antenna 01",
+            "id": "2e1328a2-64c2-418e-837e-f31c1c3c6fed",
+            "gltfPath": "assets_github/00_SciFi_Pack/Antenna_01/Antenna_01.glb"
+        },
+        {
+            "name": "Antenna 02",
+            "id": "908ffb55-dcc1-412b-9a80-07619a8460cb",
+            "gltfPath": "assets_github/00_SciFi_Pack/Antenna_02/Antenna_02.glb"
+        },
+        {
+            "name": "Antenna 03",
+            "id": "6ac769ea-ac3d-433f-afc4-3cb3790783f1",
+            "gltfPath": "assets_github/00_SciFi_Pack/Antenna_03/Antenna_03.glb"
+        },
+        {
+            "name": "Battery 01",
+            "id": "3a8477d3-acdb-443f-b814-a81c37967409",
+            "gltfPath": "assets_github/00_SciFi_Pack/Battery_01/Battery_01.glb"
+        },
+        {
+            "name": "Battery 02",
+            "id": "07bbaa54-cea0-4834-967f-90b24ca01eed",
+            "gltfPath": "assets_github/00_SciFi_Pack/Battery_02/Battery_02.glb"
+        },
+        {
+            "name": "Battery 03",
+            "id": "0ae35d5d-fbe6-4646-b44c-e070e8f46ec7",
+            "gltfPath": "assets_github/00_SciFi_Pack/Battery_03/Battery_03.glb"
+        },
+        {
+            "name": "Bench Small 01",
+            "id": "ec5d19c7-2eb3-4e41-8e77-7b5d780be2b6",
+            "gltfPath": "assets_github/00_SciFi_Pack/BenchSmall_01/BenchSmall_01.glb"
+        },
+        {
+            "name": "Button Panel 01",
+            "id": "c8afe738-8807-43b9-9d4d-fcc63e63958a",
+            "gltfPath": "assets_github/00_SciFi_Pack/ButtonPanel_01/ButtonPanel_01.glb"
+        },
+        {
+            "name": "Cable 1M Curve 01",
+            "id": "1b436e00-7f06-48cb-b42a-fc9cfd8f3590",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_1M_Curve_01/Cable_1M_Curve_01.glb"
+        },
+        {
+            "name": "Cable 1M Curve 02",
+            "id": "e4905d42-fe59-400b-bab0-b42c1dfcdc27",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_1M_Curve_02/Cable_1M_Curve_02.glb"
+        },
+        {
+            "name": "Cable 1M Curve 03",
+            "id": "8e756440-9e34-4f33-a768-a1f40e59a0a9",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_1M_Curve_03/Cable_1M_Curve_03.glb"
+        },
+        {
+            "name": "Cable 2M 01",
+            "id": "285d32bd-65df-4cbb-b8e9-e9f92ac2b51f",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_01/Cable_2M_01.glb"
+        },
+        {
+            "name": "Cable 2M 02",
+            "id": "3740c5ea-23b8-4fbc-ae53-f7030f3ce5e4",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_02/Cable_2M_02.glb"
+        },
+        {
+            "name": "Cable 2M 03",
+            "id": "0b2f112a-8211-4557-a58d-0a134321b4d7",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_03/Cable_2M_03.glb"
+        },
+        {
+            "name": "Cable 2M 04",
+            "id": "75b113ff-d454-41f9-aaed-8a66cb887f47",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_04/Cable_2M_04.glb"
+        },
+        {
+            "name": "Cable 2M Curve 01",
+            "id": "08985ad2-bc16-436b-8e1f-7f525079169d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_Curve_01/Cable_2M_Curve_01.glb"
+        },
+        {
+            "name": "Cable 2M Curve 02",
+            "id": "ae650bc1-38e9-4bae-be2d-512fd7057884",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_Curve_02/Cable_2M_Curve_02.glb"
+        },
+        {
+            "name": "Cable 2M Curve 03",
+            "id": "cd24e0d7-af67-45f5-9a9e-0c60328f107a",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_2M_Curve_03/Cable_2M_Curve_03.glb"
+        },
+        {
+            "name": "Cable 4M 01",
+            "id": "0a2f554e-a570-48a9-a304-ef52d89b49c5",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_4M_01/Cable_4M_01.glb"
+        },
+        {
+            "name": "Cable 4M 02",
+            "id": "6ca79316-87b8-4e94-84e3-b75275550d6d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_4M_02/Cable_4M_02.glb"
+        },
+        {
+            "name": "Cable 4M 03",
+            "id": "0b551fd9-5716-4471-986c-d0259afc5471",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_4M_03/Cable_4M_03.glb"
+        },
+        {
+            "name": "Cable 4M 04",
+            "id": "ac62cc7f-2d7f-4d52-a4c0-d845cc5e2d4c",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_4M_04/Cable_4M_04.glb"
+        },
+        {
+            "name": "Cable Adapter 01",
+            "id": "ff884713-6995-48a8-9194-30872a5317a1",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_Adapter_01/Cable_Adapter_01.glb"
+        },
+        {
+            "name": "Cable Adapter 02",
+            "id": "92ac6fbb-a702-48e1-a610-e22a1683ec9e",
+            "gltfPath": "assets_github/00_SciFi_Pack/Cable_Adapter_02/Cable_Adapter_02.glb"
+        },
+        {
+            "name": "Camera 01",
+            "id": "f0d443da-ba16-4588-ae18-03ce10ec2570",
+            "gltfPath": "assets_github/00_SciFi_Pack/Camera_01/Camera_01.glb"
+        },
+        {
+            "name": "Case Sci Fi 01",
+            "id": "a34365cd-b7f8-4fe7-a6d8-0d319ae2067b",
+            "gltfPath": "assets_github/00_SciFi_Pack/CaseSciFi_01/CaseSciFi_01.glb"
+        },
+        {
+            "name": "Chair Ship 01",
+            "id": "04c4799e-93bb-4ae5-b3ab-1e55e2e60a43",
+            "gltfPath": "assets_github/00_SciFi_Pack/ChairShip_01/ChairShip_01.glb"
+        },
+        {
+            "name": "Chair 01",
+            "id": "fb52df03-dd0c-4643-aac1-a93cf728d3e9",
+            "gltfPath": "assets_github/00_SciFi_Pack/Chair_01/Chair_01.glb"
+        },
+        {
+            "name": "Charger 01",
+            "id": "aecd5511-9e3d-4d61-ac10-1a96fbae3e73",
+            "gltfPath": "assets_github/00_SciFi_Pack/Charger_01/Charger_01.glb"
+        },
+        {
+            "name": "Charger 02",
+            "id": "cc40e3a4-bdf7-4d53-971c-30ec553c0de6",
+            "gltfPath": "assets_github/00_SciFi_Pack/Charger_02/Charger_02.glb"
+        },
+        {
+            "name": "Chip 01",
+            "id": "3ba39384-6332-43e8-a423-36eb766667f4",
+            "gltfPath": "assets_github/00_SciFi_Pack/Chip_01/Chip_01.glb"
+        },
+        {
+            "name": "Chip 02",
+            "id": "1193b6d8-c60e-4cea-9ad3-4b832b4dc55c",
+            "gltfPath": "assets_github/00_SciFi_Pack/Chip_02/Chip_02.glb"
+        },
+        {
+            "name": "Chip 03",
+            "id": "cf0f8476-7ebc-404f-b65a-5592b1452612",
+            "gltfPath": "assets_github/00_SciFi_Pack/Chip_03/Chip_03.glb"
+        },
+        {
+            "name": "Column 01",
+            "id": "c333a7f4-2163-4d95-9c9b-fa58059edb78",
+            "gltfPath": "assets_github/00_SciFi_Pack/Column_01/Column_01.glb"
+        },
+        {
+            "name": "Comet 01",
+            "id": "03f12e7e-fc5f-4a83-b0b3-88f76ce22a65",
+            "gltfPath": "assets_github/00_SciFi_Pack/Comet_01/Comet_01.glb"
+        },
+        {
+            "name": "Comet 02",
+            "id": "9f358e1b-8ab4-4b03-8919-089ab833ba2b",
+            "gltfPath": "assets_github/00_SciFi_Pack/Comet_02/Comet_02.glb"
+        },
+        {
+            "name": "Comet 03",
+            "id": "fc271904-a9d1-4df6-bfc5-b5f5c5c812c4",
+            "gltfPath": "assets_github/00_SciFi_Pack/Comet_03/Comet_03.glb"
+        },
+        {
+            "name": "Comet 04",
+            "id": "2cf42eb9-842c-4b78-874d-c3796cab25db",
+            "gltfPath": "assets_github/00_SciFi_Pack/Comet_04/Comet_04.glb"
+        },
+        {
+            "name": "Command Control 01",
+            "id": "b2fc8304-e7c7-41bf-a0ae-02d713d73541",
+            "gltfPath": "assets_github/00_SciFi_Pack/CommandControl_01/CommandControl_01.glb"
+        },
+        {
+            "name": "Computer 01",
+            "id": "095047b1-6562-4766-a290-e7af6ffc5bc2",
+            "gltfPath": "assets_github/00_SciFi_Pack/Computer_01/Computer_01.glb"
+        },
+        {
+            "name": "Computer 02",
+            "id": "8ec8c41c-691f-46d1-a2ea-611731ea0415",
+            "gltfPath": "assets_github/00_SciFi_Pack/Computer_02/Computer_02.glb"
+        },
+        {
+            "name": "Container Small 01",
+            "id": "e0209973-6f2e-47f3-b77f-668c7b8a059d",
+            "gltfPath": "assets_github/00_SciFi_Pack/ContainerSmall_01/ContainerSmall_01.glb"
+        },
+        {
+            "name": "Containers 01",
+            "id": "777c4535-baec-4ca0-8d0e-551b4a1e37fd",
+            "gltfPath": "assets_github/00_SciFi_Pack/Containers_01/Containers_01.glb"
+        },
+        {
+            "name": "Crate Blue Big 01",
+            "id": "67b4a39b-3ede-4c17-aa72-b5921921b511",
+            "gltfPath": "assets_github/00_SciFi_Pack/CrateBlueBig_01/CrateBlueBig_01.glb"
+        },
+        {
+            "name": "Crate Blue 01",
+            "id": "310704e9-3174-4130-9415-338ef5198e5d",
+            "gltfPath": "assets_github/00_SciFi_Pack/CrateBlue_01/CrateBlue_01.glb"
+        },
+        {
+            "name": "Crate Orange 01",
+            "id": "7fb8e96f-227c-4568-9feb-6252346249f8",
+            "gltfPath": "assets_github/00_SciFi_Pack/CrateOrange_01/CrateOrange_01.glb"
+        },
+        {
+            "name": "Crater 01",
+            "id": "83c4123b-bd50-4928-96fd-d90211b1abcd",
+            "gltfPath": "assets_github/00_SciFi_Pack/Crater_01/Crater_01.glb"
+        },
+        {
+            "name": "Crater 02",
+            "id": "bbe0ae3c-dc0c-47f4-9cc9-4a978cd98a06",
+            "gltfPath": "assets_github/00_SciFi_Pack/Crater_02/Crater_02.glb"
+        },
+        {
+            "name": "Crater 03",
+            "id": "7e9e0247-20cc-4ed3-9497-af0a0eb9054d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Crater_03/Crater_03.glb"
+        },
+        {
+            "name": "Crate Yellow Big 01",
+            "id": "b90fe80a-cba6-4788-a05b-a6b8d6fed4b7",
+            "gltfPath": "assets_github/00_SciFi_Pack/CrateYellowBig_01/CrateYellowBig_01.glb"
+        },
+        {
+            "name": "Crygenic Chamber Top 01",
+            "id": "04a0500f-fb96-46fc-ba5c-7beaa0580001",
+            "gltfPath": "assets_github/00_SciFi_Pack/CrygenicChamberTop_01/CrygenicChamberTop_01.glb"
+        },
+        {
+            "name": "Cryogenic Chamber Base 01",
+            "id": "61eb3cc0-3107-4ca8-ab10-c87b03ab47a2",
+            "gltfPath": "assets_github/00_SciFi_Pack/CryogenicChamberBase_01/CryogenicChamberBase_01.glb"
+        },
+        {
+            "name": "Desk 01",
+            "id": "b73b6e9f-2b9b-40ae-b063-bea84c22fe15",
+            "gltfPath": "assets_github/00_SciFi_Pack/Desk_01/Desk_01.glb"
+        },
+        {
+            "name": "Digital Table 01",
+            "id": "b31900f0-91e3-4d03-9f2e-99b58f781cc3",
+            "gltfPath": "assets_github/00_SciFi_Pack/DigitalTable_01/DigitalTable_01.glb"
+        },
+        {
+            "name": "Dirt 01",
+            "id": "be42871a-f394-4804-9a22-5727a3375fe3",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dirt_01/Dirt_01.glb"
+        },
+        {
+            "name": "Dirt 02",
+            "id": "a60b2739-bf84-4894-9eea-bfe40f413b71",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dirt_02/Dirt_02.glb"
+        },
+        {
+            "name": "Dirt 03",
+            "id": "31980afe-57a9-48de-8c4f-21910920e771",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dirt_03/Dirt_03.glb"
+        },
+        {
+            "name": "Dirt 04",
+            "id": "4c38c2ae-3d69-4f4b-8e0f-3b9136334072",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dirt_04/Dirt_04.glb"
+        },
+        {
+            "name": "Disc Sci Fi 01",
+            "id": "7cebf297-4ca6-4dec-844e-af476c866bb9",
+            "gltfPath": "assets_github/00_SciFi_Pack/DiscSciFi_01/DiscSciFi_01.glb"
+        },
+        {
+            "name": "Dock Column 01",
+            "id": "71d537a8-cb74-4080-b279-7327faf4828c",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Column_01/Dock_Column_01.glb"
+        },
+        {
+            "name": "Dock Curve 01",
+            "id": "5dbfc406-d626-410f-9866-8b4abf73f402",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Curve_01/Dock_Curve_01.glb"
+        },
+        {
+            "name": "Dock Door Adapter 01",
+            "id": "9cfa9e9a-ca1a-436f-9604-d88a1cd5ea10",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_DoorAdapter_01/Dock_DoorAdapter_01.glb"
+        },
+        {
+            "name": "Dock Ramp 01",
+            "id": "6f6a5ffc-be3d-4c8f-9da3-65a08a8cd4f3",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Ramp_01/Dock_Ramp_01.glb"
+        },
+        {
+            "name": "Dock Stair 01",
+            "id": "23a5a78d-0eff-40b9-a94f-004a37c03916",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Stair_01/Dock_Stair_01.glb"
+        },
+        {
+            "name": "Dock Straight 01",
+            "id": "30e80be4-6f30-422b-add1-55e2a1e11833",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Straight_01/Dock_Straight_01.glb"
+        },
+        {
+            "name": "Dome 01",
+            "id": "92878e0b-7ed5-4f96-a123-e521c5fffc34",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dome_01/Dome_01.glb"
+        },
+        {
+            "name": "Drawer 01",
+            "id": "8a036b27-21ef-4665-96bd-53fe90e1de74",
+            "gltfPath": "assets_github/00_SciFi_Pack/Drawer_01/Drawer_01.glb"
+        },
+        {
+            "name": "Drawer 02",
+            "id": "b629ebfc-181a-4f1c-ad38-395f23df2db7",
+            "gltfPath": "assets_github/00_SciFi_Pack/Drawer_02/Drawer_02.glb"
+        },
+        {
+            "name": "Drawer 03",
+            "id": "d9057341-ea7b-407a-a849-a0d88af87462",
+            "gltfPath": "assets_github/00_SciFi_Pack/Drawer_03/Drawer_03.glb"
+        },
+        {
+            "name": "Droid 01",
+            "id": "7be5acec-75f4-4114-9765-8f3cc8dd152d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Droid_01/Droid_01.glb"
+        },
+        {
+            "name": "Droid 02",
+            "id": "366fd14b-9327-4713-8d1c-9db8f395fe16",
+            "gltfPath": "assets_github/00_SciFi_Pack/Droid_02/Droid_02.glb"
+        },
+        {
+            "name": "Electric Tower 01",
+            "id": "00404b00-24da-4488-9872-eadc8881bbcb",
+            "gltfPath": "assets_github/00_SciFi_Pack/ElectricTower_01/ElectricTower_01.glb"
+        },
+        {
+            "name": "Fence 01",
+            "id": "64c463e2-0d40-420e-babf-da76256daa82",
+            "gltfPath": "assets_github/00_SciFi_Pack/Fence_01/Fence_01.glb"
+        },
+        {
+            "name": "Fence End 01",
+            "id": "92397ca1-8e43-4f08-b9e3-a0e7c64ede66",
+            "gltfPath": "assets_github/00_SciFi_Pack/Fence_End_01/Fence_End_01.glb"
+        },
+        {
+            "name": "Fence Straight 01",
+            "id": "9fcb182b-b377-4dde-86c2-9122d14769b7",
+            "gltfPath": "assets_github/00_SciFi_Pack/Fence_Straight_01/Fence_Straight_01.glb"
+        },
+        {
+            "name": "Fence Straight 02",
+            "id": "8559f2c7-3509-48d0-80a4-c3b4919cd9e2",
+            "gltfPath": "assets_github/00_SciFi_Pack/Fence_Straight_02/Fence_Straight_02.glb"
+        },
+        {
+            "name": "Floor Hexa 01",
+            "id": "b0e366a3-5616-478a-8ce6-16ae4c9c69f1",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorHexa_01/FloorHexa_01.glb"
+        },
+        {
+            "name": "Floor Hexa 02",
+            "id": "1cfdeea2-3ff7-42e6-a21a-43dcd7b5d92a",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorHexa_02/FloorHexa_02.glb"
+        },
+        {
+            "name": "Floor Module Sci Fi 01",
+            "id": "35b67885-44af-4e54-b880-3271b0b9a784",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorModuleSciFi_01/FloorModuleSciFi_01.glb"
+        },
+        {
+            "name": "Floor Sci Fi Panel 01",
+            "id": "f5207086-8c6a-4b24-a768-85549c9973f1",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorSciFiPanel_01/FloorSciFiPanel_01.glb"
+        },
+        {
+            "name": "Floor Sci Fi Panel 02",
+            "id": "2e5473c5-cbb6-4865-a98d-5405ba8fcf61",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorSciFiPanel_02/FloorSciFiPanel_02.glb"
+        },
+        {
+            "name": "Floor Sci Fi Panel 03",
+            "id": "d96ca7d9-2f4a-4ce0-b52b-53d83be040a1",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorSciFiPanel_03/FloorSciFiPanel_03.glb"
+        },
+        {
+            "name": "Floor Sci Fi Panel 04",
+            "id": "a9536bd2-66ea-4742-b82b-e4f418dd6b66",
+            "gltfPath": "assets_github/00_SciFi_Pack/FloorSciFiPanel_04/FloorSciFiPanel_04.glb"
+        },
+        {
+            "name": "Floor Module 01",
+            "id": "6d73a462-b267-4a45-89ba-c0f93393f166",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_01/Floor_Module_01.glb"
+        },
+        {
+            "name": "Floor Module 02",
+            "id": "fe838a0d-70eb-470d-862d-6e7cfd5b9749",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_02/Floor_Module_02.glb"
+        },
+        {
+            "name": "Floor Module 03",
+            "id": "cadfdb24-4d23-4b27-bd0e-ad1520e1b21d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_03/Floor_Module_03.glb"
+        },
+        {
+            "name": "Floor Module 04",
+            "id": "fddaacaf-b6c5-4693-a576-8d909f34c090",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_04/Floor_Module_04.glb"
+        },
+        {
+            "name": "Floor Module 05",
+            "id": "c848b440-5c2e-4951-b99f-974ccc4e2743",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_05/Floor_Module_05.glb"
+        },
+        {
+            "name": "Floor Module 06",
+            "id": "60d5ec08-3c31-4c87-ba91-cfcde6cfbb83",
+            "gltfPath": "assets_github/00_SciFi_Pack/Floor_Module_06/Floor_Module_06.glb"
+        },
+        {
+            "name": "Gas Charger 01",
+            "id": "21d1664c-d4d0-406a-b6dd-9bc366238eba",
+            "gltfPath": "assets_github/00_SciFi_Pack/GasCharger_01/GasCharger_01.glb"
+        },
+        {
+            "name": "Green House 01",
+            "id": "5642e208-c381-4ac5-b2bb-0e3ded1fcc06",
+            "gltfPath": "assets_github/00_SciFi_Pack/GreenHouse_01/GreenHouse_01.glb"
+        },
+        {
+            "name": "Green House 02",
+            "id": "0d4fd128-d560-4f11-aaf1-06ba3ad1b03d",
+            "gltfPath": "assets_github/00_SciFi_Pack/GreenHouse_02/GreenHouse_02.glb"
+        },
+        {
+            "name": "Ground Floor Sci Fi 01",
+            "id": "8fd71bb0-9b7c-44fe-ab4e-38e7ee9493b6",
+            "gltfPath": "assets_github/00_SciFi_Pack/GroundFloorSciFi_01/GroundFloorSciFi_01.glb"
+        },
+        {
+            "name": "Ground Floor Sci Fi 02",
+            "id": "f8082771-76e5-496c-851c-5f4a0589bc0c",
+            "gltfPath": "assets_github/00_SciFi_Pack/GroundFloorSciFi_02/GroundFloorSciFi_02.glb"
+        },
+        {
+            "name": "Ground Floor Sci Fi 03",
+            "id": "19bbed8d-5ac8-4895-adae-27fe5556579f",
+            "gltfPath": "assets_github/00_SciFi_Pack/GroundFloorSciFi_03/GroundFloorSciFi_03.glb"
+        },
+        {
+            "name": "Ground Floor Sci Fi 04",
+            "id": "fb84c8dd-0e8f-481b-b847-227e61737628",
+            "gltfPath": "assets_github/00_SciFi_Pack/GroundFloorSciFi_04/GroundFloorSciFi_04.glb"
+        },
+        {
+            "name": "HAL9000 01",
+            "id": "1336f0fc-d076-4ca8-96a6-ebe6b2578f3b",
+            "gltfPath": "assets_github/00_SciFi_Pack/HAL9000_01/HAL9000_01.glb"
+        },
+        {
+            "name": "HAL9000 02",
+            "id": "98730220-6ed1-43f1-b0a1-3427d2a69abf",
+            "gltfPath": "assets_github/00_SciFi_Pack/HAL9000_02/HAL9000_02.glb"
+        },
+        {
+            "name": "Hallway Big Module 01",
+            "id": "7c703170-73a7-4f01-8135-ccc9d6a3c5c9",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Big_Module_01/Hallway_Big_Module_01.glb"
+        },
+        {
+            "name": "Hallway Module Cross 01",
+            "id": "607b68ca-17cb-499f-9977-4cd98f52a354",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Cross_01/Hallway_Module_Cross_01.glb"
+        },
+        {
+            "name": "Hallway Module Curve 01",
+            "id": "5efdfc00-fbde-414b-a1b7-ce769de48fba",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Curve_01/Hallway_Module_Curve_01.glb"
+        },
+        {
+            "name": "Hallway Module Door 01",
+            "id": "8e5b21b6-9446-46dd-9d48-810296a51995",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Door_01/Hallway_Module_Door_01.glb"
+        },
+        {
+            "name": "Hallway Module Door 02",
+            "id": "0d7c3cdf-3905-49ce-b32c-54e3e97ce09b",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Door_02/Hallway_Module_Door_02.glb"
+        },
+        {
+            "name": "Hallway Module Straight Half 01",
+            "id": "6b2b4558-b03c-43a7-9080-9ca124f00592",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_StraightHalf_01/Hallway_Module_StraightHalf_01.glb"
+        },
+        {
+            "name": "Hallway Module Straight 01",
+            "id": "fca348b8-60fc-4fea-83ce-fb9ff7415d0c",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Straight_01/Hallway_Module_Straight_01.glb"
+        },
+        {
+            "name": "Hallway Module Straight 02",
+            "id": "27303b17-1519-4d4b-8e38-2f8f92b3ed82",
+            "gltfPath": "assets_github/00_SciFi_Pack/Hallway_Module_Straight_02/Hallway_Module_Straight_02.glb"
+        },
+        {
+            "name": "Health Bed 01",
+            "id": "2ea3e39a-a712-4863-8d80-e00a30bab0fa",
+            "gltfPath": "assets_github/00_SciFi_Pack/HealthBed_01/HealthBed_01.glb"
+        },
+        {
+            "name": "Keyboard Sci Fi 01",
+            "id": "1f99da94-35b1-4a1e-8658-f05bfe9a86be",
+            "gltfPath": "assets_github/00_SciFi_Pack/KeyboardSciFi_01/KeyboardSciFi_01.glb"
+        },
+        {
+            "name": "Lamp Post Sci Fi 01",
+            "id": "4c4d418f-7285-4dd5-8554-09d5d16515a0",
+            "gltfPath": "assets_github/00_SciFi_Pack/LampPostSciFi_01/LampPostSciFi_01.glb"
+        },
+        {
+            "name": "Lever 01",
+            "id": "31953eca-3fe6-4960-b5cb-f99fc2bec151",
+            "gltfPath": "assets_github/00_SciFi_Pack/Lever_01/Lever_01.glb"
+        },
+        {
+            "name": "Light Block 01",
+            "id": "a7785cae-90fd-4093-9bbb-ce50525b4419",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightBlock_01/LightBlock_01.glb"
+        },
+        {
+            "name": "Light Block 02",
+            "id": "47133733-5c57-44ac-aaa6-9259373dbc41",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightBlock_02/LightBlock_02.glb"
+        },
+        {
+            "name": "Light Block 03",
+            "id": "b64d5d85-dc0c-4f6b-89c4-969d4283da6c",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightBlock_03/LightBlock_03.glb"
+        },
+        {
+            "name": "Light Corner 01",
+            "id": "34ef87fa-0fa9-477f-8c0b-bedd6ff7cbd6",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCorner_01/LightCorner_01.glb"
+        },
+        {
+            "name": "Light Corner 02",
+            "id": "920b9eb2-b221-4540-9056-9fe06eea92df",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCorner_02/LightCorner_02.glb"
+        },
+        {
+            "name": "Light Corner 03",
+            "id": "b3c31aef-c013-4913-8bce-f2d92517c0f8",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCorner_03/LightCorner_03.glb"
+        },
+        {
+            "name": "Light Cross 01",
+            "id": "a0b10b72-b48e-437b-8609-4e16743d1b50",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCross_01/LightCross_01.glb"
+        },
+        {
+            "name": "Light Cross 02",
+            "id": "42751405-0324-4b8b-90db-6e0fc4b6008f",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCross_02/LightCross_02.glb"
+        },
+        {
+            "name": "Light Cross 03",
+            "id": "49bbaaeb-0973-4de6-97c2-83bbfca56a4c",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCross_03/LightCross_03.glb"
+        },
+        {
+            "name": "Light Cube 01",
+            "id": "c2b52e7d-5ad5-41a1-ba12-beacbd81a4ed",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCube_01/LightCube_01.glb"
+        },
+        {
+            "name": "Light Cube 02",
+            "id": "f8139887-b621-4ee5-b56d-09a64e4cc2dd",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCube_02/LightCube_02.glb"
+        },
+        {
+            "name": "Light Cube 03",
+            "id": "7dffc1bb-bd9f-4c5d-9d2c-0ad334e3309f",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCube_03/LightCube_03.glb"
+        },
+        {
+            "name": "Light Cylinder 01",
+            "id": "35374faa-d302-45c1-9d8f-07656b140e84",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCylinder_01/LightCylinder_01.glb"
+        },
+        {
+            "name": "Light Cylinder 02",
+            "id": "01fa9b06-7f32-449f-a3dd-78245223d31a",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCylinder_02/LightCylinder_02.glb"
+        },
+        {
+            "name": "Light Cylinder 03",
+            "id": "6c82e463-ee0e-4448-b9eb-630570e1e4fb",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightCylinder_03/LightCylinder_03.glb"
+        },
+        {
+            "name": "Light Floor 01",
+            "id": "159eb2e8-840b-4b51-9d9d-99a1e078d730",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightFloor_01/LightFloor_01.glb"
+        },
+        {
+            "name": "Light Wall 01",
+            "id": "fe5d7c73-e8c5-4797-8f42-7cdb70189c76",
+            "gltfPath": "assets_github/00_SciFi_Pack/LightWall_01/LightWall_01.glb"
+        },
+        {
+            "name": "Light 01",
+            "id": "2af4331b-9439-4a9e-a3d2-8c7332fea038",
+            "gltfPath": "assets_github/00_SciFi_Pack/Light_01/Light_01.glb"
+        },
+        {
+            "name": "Light 02",
+            "id": "8438c98d-e450-4704-b954-43409d31967b",
+            "gltfPath": "assets_github/00_SciFi_Pack/Light_02/Light_02.glb"
+        },
+        {
+            "name": "Light 03",
+            "id": "481e6986-b49e-41b4-bc52-3c8b6dad3aa1",
+            "gltfPath": "assets_github/00_SciFi_Pack/Light_03/Light_03.glb"
+        },
+        {
+            "name": "Light 04",
+            "id": "af724fd6-daaf-4307-b040-0fefb7452e3c",
+            "gltfPath": "assets_github/00_SciFi_Pack/Light_04/Light_04.glb"
+        },
+        {
+            "name": "Manhole 01",
+            "id": "c5a32d6d-d31e-47d0-b1d9-23a8488d100f",
+            "gltfPath": "assets_github/00_SciFi_Pack/Manhole_01/Manhole_01.glb"
+        },
+        {
+            "name": "Monitor 01",
+            "id": "f5e0ec2c-2d79-4651-ac46-66ab09188688",
+            "gltfPath": "assets_github/00_SciFi_Pack/Monitor_01/Monitor_01.glb"
+        },
+        {
+            "name": "Neon Light Tube 01",
+            "id": "fc0965a1-5982-47ce-b6e2-63b651a09247",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_01/NeonLightTube_01.glb"
+        },
+        {
+            "name": "Neon Light Tube 02",
+            "id": "6ecb0830-1f60-48fc-a3e5-6f8ce7b6ec78",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_02/NeonLightTube_02.glb"
+        },
+        {
+            "name": "Neon Light Tube 03",
+            "id": "9e60e7f9-bd1e-4f1b-9774-c2d11109bb05",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_03/NeonLightTube_03.glb"
+        },
+        {
+            "name": "Neon Light Tube 04",
+            "id": "a9743bbd-15a3-4527-b12b-de7c48a39bba",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_04/NeonLightTube_04.glb"
+        },
+        {
+            "name": "Neon Light Tube 05",
+            "id": "66e03600-418b-457f-a25d-75632948d096",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_05/NeonLightTube_05.glb"
+        },
+        {
+            "name": "Neon Light Tube 06",
+            "id": "9764ce36-ba2f-4846-9712-a6cb58427a6f",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_06/NeonLightTube_06.glb"
+        },
+        {
+            "name": "Neon Light Tube 07",
+            "id": "3978524d-31df-4bdf-b998-888cfb5f88a1",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLightTube_07/NeonLightTube_07.glb"
+        },
+        {
+            "name": "Neon Light 01",
+            "id": "dfce9750-ceca-4e9f-ba76-77843fb16902",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLight_01/NeonLight_01.glb"
+        },
+        {
+            "name": "Neon Light 02",
+            "id": "2f662bbb-5986-4f3f-ac1b-574673fc8515",
+            "gltfPath": "assets_github/00_SciFi_Pack/NeonLight_02/NeonLight_02.glb"
+        },
+        {
+            "name": "Oxygen Storage 01",
+            "id": "82077491-a30f-4310-89d5-ab1dd87b7604",
+            "gltfPath": "assets_github/00_SciFi_Pack/OxygenStorage_01/OxygenStorage_01.glb"
+        },
+        {
+            "name": "Oxygen Tube 01",
+            "id": "7f9fde45-0c38-4e77-b13a-257d5da562c6",
+            "gltfPath": "assets_github/00_SciFi_Pack/OxygenTube_01/OxygenTube_01.glb"
+        },
+        {
+            "name": "Oxygen Wall 01",
+            "id": "9c1f5ebe-6230-476d-a096-d1f77f0f3d5e",
+            "gltfPath": "assets_github/00_SciFi_Pack/OxygenWall_01/OxygenWall_01.glb"
+        },
+        {
+            "name": "Panel Sci Fi 01",
+            "id": "83b70d08-f41c-4a1c-abbc-df5d2e37725b",
+            "gltfPath": "assets_github/00_SciFi_Pack/PanelSciFi_01/PanelSciFi_01.glb"
+        },
+        {
+            "name": "Panel Sci Fi 02",
+            "id": "875c8ccf-dc71-474a-a5c1-3df91666df00",
+            "gltfPath": "assets_github/00_SciFi_Pack/PanelSciFi_02/PanelSciFi_02.glb"
+        },
+        {
+            "name": "Pipe Curve 05M 01",
+            "id": "ab5723b5-b564-472c-a5c3-0f3ddb89d14d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pipe_Curve_05M_01/Pipe_Curve_05M_01.glb"
+        },
+        {
+            "name": "Pipe Straight 05M 01",
+            "id": "27cdff55-9f5f-4696-a88c-1dfe7f24786d",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pipe_Straight_05M_01/Pipe_Straight_05M_01.glb"
+        },
+        {
+            "name": "Pipe Straight 1M 01",
+            "id": "55ea5334-849e-48cb-ad85-285234fd6d00",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pipe_Straight_1M_01/Pipe_Straight_1M_01.glb"
+        },
+        {
+            "name": "Planet Floor Orange 01",
+            "id": "cac67de6-dd9e-432d-90c6-78baed08efdd",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlanetFloorOrange_01/PlanetFloorOrange_01.glb"
+        },
+        {
+            "name": "Planet Floor Red 01",
+            "id": "80231b83-0afc-4260-a406-8bb030e1c1f6",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlanetFloorRed_01/PlanetFloorRed_01.glb"
+        },
+        {
+            "name": "Planet Floor Red 02",
+            "id": "b839f0c1-699b-4bb4-aa40-0d2afbfa0e8b",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlanetFloorRed_02/PlanetFloorRed_02.glb"
+        },
+        {
+            "name": "Planet Floor Violet 01",
+            "id": "3b6f29a6-861f-4452-879c-43d8ac797b4e",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlanetFloorViolet_01/PlanetFloorViolet_01.glb"
+        },
+        {
+            "name": "Planet 01",
+            "id": "5c7e0a48-135c-43ef-9a8e-b9000bc03f9f",
+            "gltfPath": "assets_github/00_SciFi_Pack/Planet_01/Planet_01.glb"
+        },
+        {
+            "name": "Planet 02",
+            "id": "e00a30f3-c219-43ed-9ccc-e2a146caac77",
+            "gltfPath": "assets_github/00_SciFi_Pack/Planet_02/Planet_02.glb"
+        },
+        {
+            "name": "Planet 03",
+            "id": "6f8f75f1-fd0f-43b8-bb6a-b0aceceecae2",
+            "gltfPath": "assets_github/00_SciFi_Pack/Planet_03/Planet_03.glb"
+        },
+        {
+            "name": "Planet 04",
+            "id": "8ca8d7a5-edd0-4ec4-922b-d40c73d9537e",
+            "gltfPath": "assets_github/00_SciFi_Pack/Planet_04/Planet_04.glb"
+        },
+        {
+            "name": "Planet 05",
+            "id": "26458672-8bd0-44e4-a8aa-7309b6dc4702",
+            "gltfPath": "assets_github/00_SciFi_Pack/Planet_05/Planet_05.glb"
+        },
+        {
+            "name": "Plant SF 01",
+            "id": "b3998c56-30ae-4213-a312-8971c3cd7162",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_01/PlantSF_01.glb"
+        },
+        {
+            "name": "Plant SF 02",
+            "id": "1b8777ac-4821-4ae8-94e9-95c5f581cfee",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_02/PlantSF_02.glb"
+        },
+        {
+            "name": "Plant SF 03",
+            "id": "0238073b-f3f4-4880-8c7d-35e2e610b1ef",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_03/PlantSF_03.glb"
+        },
+        {
+            "name": "Plant SF 04",
+            "id": "29c966a7-2392-4541-847b-02756e6c01b0",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_04/PlantSF_04.glb"
+        },
+        {
+            "name": "Plant SF 05",
+            "id": "f78cd7d5-53bc-45bf-86d1-cbecb811fb8c",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_05/PlantSF_05.glb"
+        },
+        {
+            "name": "Plant SF 06",
+            "id": "a7b91152-3060-473f-a191-266987a49750",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_06/PlantSF_06.glb"
+        },
+        {
+            "name": "Plant SF 07",
+            "id": "41c7a588-a58c-4fa9-95d1-325b61e55aa7",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_07/PlantSF_07.glb"
+        },
+        {
+            "name": "Plant SF 08",
+            "id": "40def27f-fab1-4b8a-b1c3-d751acd4c76c",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_08/PlantSF_08.glb"
+        },
+        {
+            "name": "Plant SF 09",
+            "id": "d80f521e-e31d-453a-a8f3-4150955be7ac",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_09/PlantSF_09.glb"
+        },
+        {
+            "name": "Plant SF 10",
+            "id": "3203e8bb-64a1-49af-9b90-edc103eaa712",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_10/PlantSF_10.glb"
+        },
+        {
+            "name": "Plant SF 11",
+            "id": "fe44bde8-1ed8-4d9e-9143-bafb27ad8320",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_11/PlantSF_11.glb"
+        },
+        {
+            "name": "Plant SF 12",
+            "id": "a07f1103-8698-43f6-af7e-bdcf44f196ec",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_12/PlantSF_12.glb"
+        },
+        {
+            "name": "Plant SF 13",
+            "id": "67267ed0-89c0-4b17-bc22-c18fbd9722e8",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlantSF_13/PlantSF_13.glb"
+        },
+        {
+            "name": "Plasma Blue 01",
+            "id": "5de1dcf8-4476-41c7-80ce-20c0a2b0f82b",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlasmaBlue_01/PlasmaBlue_01.glb"
+        },
+        {
+            "name": "Plasma Green 01",
+            "id": "f218ea60-2210-43e6-a7fc-08b3d19a9f36",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlasmaGreen_01/PlasmaGreen_01.glb"
+        },
+        {
+            "name": "Plasma Pink 01",
+            "id": "b1dde0d7-b769-438a-bcf2-0bd0604d8272",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlasmaPink_01/PlasmaPink_01.glb"
+        },
+        {
+            "name": "Plasma Yellow 01",
+            "id": "e5e39265-874f-4a8d-bb01-0e16efdc3e30",
+            "gltfPath": "assets_github/00_SciFi_Pack/PlasmaYellow_01/PlasmaYellow_01.glb"
+        },
+        {
+            "name": "Pod 01",
+            "id": "b0b38aab-6a22-4aef-8a1f-e3be1e41c0e8",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pod_01/Pod_01.glb"
+        },
+        {
+            "name": "Pod 02",
+            "id": "8032450f-4650-46db-90f7-5e81a62dc69b",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pod_02/Pod_02.glb"
+        },
+        {
+            "name": "Pod 03",
+            "id": "23cca7fe-32a3-4e50-be44-5aa040ee8291",
+            "gltfPath": "assets_github/00_SciFi_Pack/Pod_03/Pod_03.glb"
+        },
+        {
+            "name": "Roof Vent 01",
+            "id": "07343ae0-c823-4441-a0a1-b4bcdddfd86b",
+            "gltfPath": "assets_github/00_SciFi_Pack/RoofVent_01/RoofVent_01.glb"
+        },
+        {
+            "name": "Rover 01",
+            "id": "fa76efb7-6ba7-46c3-a39d-5f558ef14722",
+            "gltfPath": "assets_github/00_SciFi_Pack/Rover_01/Rover_01.glb"
+        },
+        {
+            "name": "Rover 02",
+            "id": "01282203-71da-4259-8d96-5398cf8550b8",
+            "gltfPath": "assets_github/00_SciFi_Pack/Rover_02/Rover_02.glb"
+        },
+        {
+            "name": "Satellite 01",
+            "id": "deb79706-71c0-40b4-8a94-c62270643dcb",
+            "gltfPath": "assets_github/00_SciFi_Pack/Satellite_01/Satellite_01.glb"
+        },
+        {
+            "name": "Science Container 01",
+            "id": "003a5d01-12c3-4d17-9922-4507af96ad35",
+            "gltfPath": "assets_github/00_SciFi_Pack/ScienceContainer_01/ScienceContainer_01.glb"
+        },
+        {
+            "name": "Science Container 02",
+            "id": "93d25d8d-a0e3-4713-b7f0-b9f7d51bff59",
+            "gltfPath": "assets_github/00_SciFi_Pack/ScienceContainer_02/ScienceContainer_02.glb"
+        },
+        {
+            "name": "Seats 01",
+            "id": "f69a90b8-fa5a-4de6-a9de-f472376bd444",
+            "gltfPath": "assets_github/00_SciFi_Pack/Seats_01/Seats_01.glb"
+        },
+        {
+            "name": "Sensor 01",
+            "id": "49e8cbb4-0e07-475e-a36f-adafc5a3cd58",
+            "gltfPath": "assets_github/00_SciFi_Pack/Sensor_01/Sensor_01.glb"
+        },
+        {
+            "name": "Solar Panel 01",
+            "id": "44b3aa9e-f490-41cd-8c52-075a8c733ef5",
+            "gltfPath": "assets_github/00_SciFi_Pack/SolarPanel_01/SolarPanel_01.glb"
+        },
+        {
+            "name": "Space Room 01",
+            "id": "ea7dcfd5-032f-40bd-8ae5-f4a695d04785",
+            "gltfPath": "assets_github/00_SciFi_Pack/SpaceRoom_01/SpaceRoom_01.glb"
+        },
+        {
+            "name": "Space Ship Base 01",
+            "id": "071438e0-6c27-4d32-839c-0ba945d7cdd7",
+            "gltfPath": "assets_github/00_SciFi_Pack/SpaceShipBase_01/SpaceShipBase_01.glb"
+        },
+        {
+            "name": "Space Ship 01",
+            "id": "99f92866-db16-423f-94ab-f9adfe571280",
+            "gltfPath": "assets_github/00_SciFi_Pack/SpaceShip_01/SpaceShip_01.glb"
+        },
+        {
+            "name": "Space Ship 02",
+            "id": "6ebd540e-e738-4a9b-90a6-9109c4d1904a",
+            "gltfPath": "assets_github/00_SciFi_Pack/SpaceShip_02/SpaceShip_02.glb"
+        },
+        {
+            "name": "Space Ship 03",
+            "id": "67c8faf6-46c9-4c4d-8843-b846224681b2",
+            "gltfPath": "assets_github/00_SciFi_Pack/SpaceShip_03/SpaceShip_03.glb"
+        },
+        {
+            "name": "Star 01",
+            "id": "5d2603d6-33de-47eb-bc2c-8bd7812b7482",
+            "gltfPath": "assets_github/00_SciFi_Pack/Star_01/Star_01.glb"
+        },
+        {
+            "name": "Stone 01",
+            "id": "fbfa2f39-370d-47d8-ba6e-08c5a5f8bac3",
+            "gltfPath": "assets_github/00_SciFi_Pack/Stone_01/Stone_01.glb"
+        },
+        {
+            "name": "Stone 02",
+            "id": "533f2e70-1ff2-4fb5-9877-762203eeb554",
+            "gltfPath": "assets_github/00_SciFi_Pack/Stone_02/Stone_02.glb"
+        },
+        {
+            "name": "Stone 03",
+            "id": "14adc475-e088-4e19-9069-6d259aa62998",
+            "gltfPath": "assets_github/00_SciFi_Pack/Stone_03/Stone_03.glb"
+        },
+        {
+            "name": "Stone 04",
+            "id": "865a727e-deaf-4431-9c84-bb70daa76d7f",
+            "gltfPath": "assets_github/00_SciFi_Pack/Stone_04/Stone_04.glb"
+        },
+        {
+            "name": "Stone 05",
+            "id": "28248b79-c8b8-487a-84cc-adb371cf3312",
+            "gltfPath": "assets_github/00_SciFi_Pack/Stone_05/Stone_05.glb"
+        },
+        {
+            "name": "Street Fence 01",
+            "id": "f8c3f9f6-680b-476b-a521-68aa2b3c69e0",
+            "gltfPath": "assets_github/00_SciFi_Pack/StreetFence_01/StreetFence_01.glb"
+        },
+        {
+            "name": "Table Sci Fi 01",
+            "id": "542b424b-1ce6-483e-accd-9a688326e242",
+            "gltfPath": "assets_github/00_SciFi_Pack/TableSciFi_01/TableSciFi_01.glb"
+        },
+        {
+            "name": "Table Sci Fi 02",
+            "id": "16c054e6-637e-485b-af37-89f341ecf408",
+            "gltfPath": "assets_github/00_SciFi_Pack/TableSciFi_02/TableSciFi_02.glb"
+        },
+        {
+            "name": "Table dinner 01",
+            "id": "682dd7d6-3bd6-485c-aaee-a199294b2a37",
+            "gltfPath": "assets_github/00_SciFi_Pack/Table_dinner_01/Table_dinner_01.glb"
+        },
+        {
+            "name": "Teleporter 01",
+            "id": "46aff0c8-da8e-4868-b9e8-0d119f1bea43",
+            "gltfPath": "assets_github/00_SciFi_Pack/Teleporter_01/Teleporter_01.glb"
+        },
+        {
+            "name": "Terminal 01",
+            "id": "12b4bae4-58e3-4806-b45e-cdadc6cefd36",
+            "gltfPath": "assets_github/00_SciFi_Pack/Terminal_01/Terminal_01.glb"
+        },
+        {
+            "name": "Tube Curve 01",
+            "id": "69013a7c-81fa-47c3-8c50-66bac63550ed",
+            "gltfPath": "assets_github/00_SciFi_Pack/TubeCurve_01/TubeCurve_01.glb"
+        },
+        {
+            "name": "Tube Piece 01",
+            "id": "f377c02c-2dad-4507-afd2-08d50021f155",
+            "gltfPath": "assets_github/00_SciFi_Pack/TubePiece_01/TubePiece_01.glb"
+        },
+        {
+            "name": "Tube Piece 02",
+            "id": "ff1e5f75-407c-41a8-b925-fddb6d9920b5",
+            "gltfPath": "assets_github/00_SciFi_Pack/TubePiece_02/TubePiece_02.glb"
+        },
+        {
+            "name": "Tube Piece 03",
+            "id": "4f101e13-52d3-4cb6-88b8-47b79a56ab9f",
+            "gltfPath": "assets_github/00_SciFi_Pack/TubePiece_03/TubePiece_03.glb"
+        },
+        {
+            "name": "Tube 01",
+            "id": "c41ed0f3-3b27-4153-8a96-3065989655f7",
+            "gltfPath": "assets_github/00_SciFi_Pack/Tube_01/Tube_01.glb"
+        },
+        {
+            "name": "Turret Base 01",
+            "id": "15f8843c-86cc-4cb5-9bdf-b6b384fef9fb",
+            "gltfPath": "assets_github/00_SciFi_Pack/TurretBase_01/TurretBase_01.glb"
+        },
+        {
+            "name": "Turret Base 02",
+            "id": "7833786d-c41c-4d76-8759-96d40e8188b6",
+            "gltfPath": "assets_github/00_SciFi_Pack/TurretBase_02/TurretBase_02.glb"
+        },
+        {
+            "name": "Turret 01",
+            "id": "a43348cc-f163-41e4-a1e1-af7f2733c1cd",
+            "gltfPath": "assets_github/00_SciFi_Pack/Turret_01/Turret_01.glb"
+        },
+        {
+            "name": "Turret 02",
+            "id": "add8e06b-001a-4978-98b0-c27a17aa10a1",
+            "gltfPath": "assets_github/00_SciFi_Pack/Turret_02/Turret_02.glb"
+        },
+        {
+            "name": "Turret 03",
+            "id": "6dba02a0-aaf8-4c2c-a6b4-f618f73d1c74",
+            "gltfPath": "assets_github/00_SciFi_Pack/Turret_03/Turret_03.glb"
+        },
+        {
+            "name": "Vault 01",
+            "id": "a0e95301-da50-4db5-a785-ac7cf91fc314",
+            "gltfPath": "assets_github/00_SciFi_Pack/Vault_01/Vault_01.glb"
         }
     ]
 }
