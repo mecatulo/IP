@@ -21,7 +21,7 @@ const dirt01363transform = new Transform({
   scale: new Vector3(8, 8, 8)
 })
 dirt01363.addComponentOrReplace(dirt01363transform)
-const dirt01363GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dirt_01/Dirt_01.glb")
+const dirt01363GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dirt_01/Dirt_01.glb")
 dirt01363GLTFShape.withCollisions = true
 dirt01363GLTFShape.isPointerBlocker = true
 dirt01363GLTFShape.visible = true
@@ -51,7 +51,7 @@ const dirt03359transform = new Transform({
   scale: new Vector3(4, 4, 4)
 })
 dirt03359.addComponentOrReplace(dirt03359transform)
-const dirt03359GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dirt_03/Dirt_03.glb")
+const dirt03359GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dirt_03/Dirt_03.glb")
 dirt03359GLTFShape.withCollisions = true
 dirt03359GLTFShape.isPointerBlocker = true
 dirt03359GLTFShape.visible = true
@@ -68,7 +68,7 @@ const dirt02358transform = new Transform({
   scale: new Vector3(8, 4.292385, 8)
 })
 dirt02358.addComponentOrReplace(dirt02358transform)
-const dirt02358GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dirt_02/Dirt_02.glb")
+const dirt02358GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dirt_02/Dirt_02.glb")
 dirt02358GLTFShape.withCollisions = true
 dirt02358GLTFShape.isPointerBlocker = true
 dirt02358GLTFShape.visible = true
@@ -85,7 +85,7 @@ const stone04235transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 stone04235.addComponentOrReplace(stone04235transform)
-const stone04235GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Stone_04/Stone_04.glb")
+const stone04235GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Stone_04/Stone_04.glb")
 stone04235GLTFShape.withCollisions = true
 stone04235GLTFShape.isPointerBlocker = true
 stone04235GLTFShape.visible = true
@@ -102,7 +102,7 @@ const stone01232transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 stone01232.addComponentOrReplace(stone01232transform)
-const stone01232GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Stone_01/Stone_01.glb")
+const stone01232GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Stone_01/Stone_01.glb")
 stone01232GLTFShape.withCollisions = true
 stone01232GLTFShape.isPointerBlocker = true
 stone01232GLTFShape.visible = true
@@ -119,7 +119,7 @@ const stone03234transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 stone03234.addComponentOrReplace(stone03234transform)
-const stone03234GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Stone_03/Stone_03.glb")
+const stone03234GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Stone_03/Stone_03.glb")
 stone03234GLTFShape.withCollisions = true
 stone03234GLTFShape.isPointerBlocker = true
 stone03234GLTFShape.visible = true
@@ -136,7 +136,7 @@ const stone05236transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 stone05236.addComponentOrReplace(stone05236transform)
-const stone05236GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Stone_05/Stone_05.glb")
+const stone05236GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Stone_05/Stone_05.glb")
 stone05236GLTFShape.withCollisions = true
 stone05236GLTFShape.isPointerBlocker = true
 stone05236GLTFShape.visible = true
@@ -153,7 +153,7 @@ const stone02233transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 stone02233.addComponentOrReplace(stone02233transform)
-const stone02233GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Stone_02/Stone_02.glb")
+const stone02233GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Stone_02/Stone_02.glb")
 stone02233GLTFShape.withCollisions = true
 stone02233GLTFShape.isPointerBlocker = true
 stone02233GLTFShape.visible = true
@@ -313,7 +313,7 @@ const groundFloorSciFi03127transform = new Transform({
   scale: new Vector3(4, 1, 4)
 })
 groundFloorSciFi03127.addComponentOrReplace(groundFloorSciFi03127transform)
-const groundFloorSciFi03127GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/GroundFloorSciFi_03/GroundFloorSciFi_03.glb")
+const groundFloorSciFi03127GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/GroundFloorSciFi_03/GroundFloorSciFi_03.glb")
 groundFloorSciFi03127GLTFShape.withCollisions = true
 groundFloorSciFi03127GLTFShape.isPointerBlocker = true
 groundFloorSciFi03127GLTFShape.visible = true
@@ -512,7 +512,7 @@ const crater01399transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crater01399.addComponentOrReplace(crater01399transform)
-const crater01399GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Crater_01/Crater_01.glb")
+const crater01399GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Crater_01/Crater_01.glb")
 crater01399GLTFShape.withCollisions = true
 crater01399GLTFShape.isPointerBlocker = true
 crater01399GLTFShape.visible = true
@@ -529,7 +529,7 @@ const crater03401transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crater03401.addComponentOrReplace(crater03401transform)
-const crater03401GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Crater_03/Crater_03.glb")
+const crater03401GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Crater_03/Crater_03.glb")
 crater03401GLTFShape.withCollisions = true
 crater03401GLTFShape.isPointerBlocker = true
 crater03401GLTFShape.visible = true
@@ -546,7 +546,7 @@ const crater02400transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crater02400.addComponentOrReplace(crater02400transform)
-const crater02400GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Crater_02/Crater_02.glb")
+const crater02400GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Crater_02/Crater_02.glb")
 crater02400GLTFShape.withCollisions = true
 crater02400GLTFShape.isPointerBlocker = true
 crater02400GLTFShape.visible = true
@@ -575,7 +575,7 @@ const battery03397transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 battery03397.addComponentOrReplace(battery03397transform)
-const battery03397GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Battery_03/Battery_03.glb")
+const battery03397GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Battery_03/Battery_03.glb")
 battery03397GLTFShape.withCollisions = true
 battery03397GLTFShape.isPointerBlocker = true
 battery03397GLTFShape.visible = true
@@ -592,7 +592,7 @@ const cable4m04394transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 cable4m04394.addComponentOrReplace(cable4m04394transform)
-const cable4m04394GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Cable_4M_04/Cable_4M_04.glb")
+const cable4m04394GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Cable_4M_04/Cable_4M_04.glb")
 cable4m04394GLTFShape.withCollisions = true
 cable4m04394GLTFShape.isPointerBlocker = true
 cable4m04394GLTFShape.visible = true
@@ -609,7 +609,7 @@ const airVentCap01398transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 airVentCap01398.addComponentOrReplace(airVentCap01398transform)
-const airVentCap01398GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/AirVent_Cap_01/AirVent_Cap_01.glb")
+const airVentCap01398GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/AirVent_Cap_01/AirVent_Cap_01.glb")
 airVentCap01398GLTFShape.withCollisions = true
 airVentCap01398GLTFShape.isPointerBlocker = true
 airVentCap01398GLTFShape.visible = true
@@ -626,7 +626,7 @@ const cableAdapter02395transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 cableAdapter02395.addComponentOrReplace(cableAdapter02395transform)
-const cableAdapter02395GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Cable_Adapter_02/Cable_Adapter_02.glb")
+const cableAdapter02395GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Cable_Adapter_02/Cable_Adapter_02.glb")
 cableAdapter02395GLTFShape.withCollisions = true
 cableAdapter02395GLTFShape.isPointerBlocker = true
 cableAdapter02395GLTFShape.visible = true
@@ -643,7 +643,7 @@ const containerSmall01391transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 containerSmall01391.addComponentOrReplace(containerSmall01391transform)
-const containerSmall01391GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/ContainerSmall_01/ContainerSmall_01.glb")
+const containerSmall01391GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/ContainerSmall_01/ContainerSmall_01.glb")
 containerSmall01391GLTFShape.withCollisions = true
 containerSmall01391GLTFShape.isPointerBlocker = true
 containerSmall01391GLTFShape.visible = true
@@ -660,7 +660,7 @@ const spaceShip02390transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 spaceShip02390.addComponentOrReplace(spaceShip02390transform)
-const spaceShip02390GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/SpaceShip_02/SpaceShip_02.glb")
+const spaceShip02390GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/SpaceShip_02/SpaceShip_02.glb")
 spaceShip02390GLTFShape.withCollisions = true
 spaceShip02390GLTFShape.isPointerBlocker = true
 spaceShip02390GLTFShape.visible = true
@@ -677,7 +677,7 @@ const chip01392transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 chip01392.addComponentOrReplace(chip01392transform)
-const chip01392GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Chip_01/Chip_01.glb")
+const chip01392GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Chip_01/Chip_01.glb")
 chip01392GLTFShape.withCollisions = true
 chip01392GLTFShape.isPointerBlocker = true
 chip01392GLTFShape.visible = true
@@ -694,7 +694,7 @@ const battery01396transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 battery01396.addComponentOrReplace(battery01396transform)
-const battery01396GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Battery_01/Battery_01.glb")
+const battery01396GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Battery_01/Battery_01.glb")
 battery01396GLTFShape.withCollisions = true
 battery01396GLTFShape.isPointerBlocker = true
 battery01396GLTFShape.visible = true
@@ -711,7 +711,7 @@ const chairShip01393transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 chairShip01393.addComponentOrReplace(chairShip01393transform)
-const chairShip01393GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/ChairShip_01/ChairShip_01.glb")
+const chairShip01393GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/ChairShip_01/ChairShip_01.glb")
 chairShip01393GLTFShape.withCollisions = true
 chairShip01393GLTFShape.isPointerBlocker = true
 chairShip01393GLTFShape.visible = true
@@ -728,7 +728,7 @@ const spaceRoom01406transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 spaceRoom01406.addComponentOrReplace(spaceRoom01406transform)
-const spaceRoom01406GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/SpaceRoom_01/SpaceRoom_01.glb")
+const spaceRoom01406GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/SpaceRoom_01/SpaceRoom_01.glb")
 spaceRoom01406GLTFShape.withCollisions = true
 spaceRoom01406GLTFShape.isPointerBlocker = true
 spaceRoom01406GLTFShape.visible = true
@@ -757,7 +757,7 @@ const tubePiece01362transform = new Transform({
   scale: new Vector3(2, 2, 2)
 })
 tubePiece01362.addComponentOrReplace(tubePiece01362transform)
-const tubePiece01362GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/TubePiece_01/TubePiece_01.glb")
+const tubePiece01362GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/TubePiece_01/TubePiece_01.glb")
 tubePiece01362GLTFShape.withCollisions = true
 tubePiece01362GLTFShape.isPointerBlocker = true
 tubePiece01362GLTFShape.visible = true
@@ -917,7 +917,7 @@ const pipeStraight1m01448transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 pipeStraight1m01448.addComponentOrReplace(pipeStraight1m01448transform)
-const pipeStraight1m01448GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Pipe_Straight_1M_01/Pipe_Straight_1M_01.glb")
+const pipeStraight1m01448GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Pipe_Straight_1M_01/Pipe_Straight_1M_01.glb")
 pipeStraight1m01448GLTFShape.withCollisions = true
 pipeStraight1m01448GLTFShape.isPointerBlocker = true
 pipeStraight1m01448GLTFShape.visible = true
@@ -934,7 +934,7 @@ const lightCube02418transform = new Transform({
   scale: new Vector3(5, 1, 5)
 })
 lightCube02418.addComponentOrReplace(lightCube02418transform)
-const lightCube02418GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/LightCube_02/LightCube_02.glb")
+const lightCube02418GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/LightCube_02/LightCube_02.glb")
 lightCube02418GLTFShape.withCollisions = true
 lightCube02418GLTFShape.isPointerBlocker = true
 lightCube02418GLTFShape.visible = true
@@ -977,7 +977,7 @@ const antenna02422transform = new Transform({
   scale: new Vector3(1.7, 1.7, 1.7)
 })
 antenna02422.addComponentOrReplace(antenna02422transform)
-const antenna02422GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Antenna_02/Antenna_02.glb")
+const antenna02422GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Antenna_02/Antenna_02.glb")
 antenna02422GLTFShape.withCollisions = true
 antenna02422GLTFShape.isPointerBlocker = true
 antenna02422GLTFShape.visible = true
@@ -994,7 +994,7 @@ const lever01424transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 lever01424.addComponentOrReplace(lever01424transform)
-const lever01424GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Lever_01/Lever_01.glb")
+const lever01424GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Lever_01/Lever_01.glb")
 lever01424GLTFShape.withCollisions = true
 lever01424GLTFShape.isPointerBlocker = true
 lever01424GLTFShape.visible = true
@@ -1011,7 +1011,7 @@ const electricTower01420transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 electricTower01420.addComponentOrReplace(electricTower01420transform)
-const electricTower01420GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/ElectricTower_01/ElectricTower_01.glb")
+const electricTower01420GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/ElectricTower_01/ElectricTower_01.glb")
 electricTower01420GLTFShape.withCollisions = true
 electricTower01420GLTFShape.isPointerBlocker = true
 electricTower01420GLTFShape.visible = true
@@ -1028,7 +1028,7 @@ const antenna01421transform = new Transform({
   scale: new Vector3(4, 4, 4)
 })
 antenna01421.addComponentOrReplace(antenna01421transform)
-const antenna01421GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Antenna_01/Antenna_01.glb")
+const antenna01421GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Antenna_01/Antenna_01.glb")
 antenna01421GLTFShape.withCollisions = true
 antenna01421GLTFShape.isPointerBlocker = true
 antenna01421GLTFShape.visible = true
@@ -1045,7 +1045,7 @@ const antenna03423transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 antenna03423.addComponentOrReplace(antenna03423transform)
-const antenna03423GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Antenna_03/Antenna_03.glb")
+const antenna03423GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Antenna_03/Antenna_03.glb")
 antenna03423GLTFShape.withCollisions = true
 antenna03423GLTFShape.isPointerBlocker = true
 antenna03423GLTFShape.visible = true
@@ -1296,7 +1296,7 @@ const pipeCurve05m01456transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 pipeCurve05m01456.addComponentOrReplace(pipeCurve05m01456transform)
-const pipeCurve05m01456GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Pipe_Curve_05M_01/Pipe_Curve_05M_01.glb")
+const pipeCurve05m01456GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Pipe_Curve_05M_01/Pipe_Curve_05M_01.glb")
 pipeCurve05m01456GLTFShape.withCollisions = true
 pipeCurve05m01456GLTFShape.isPointerBlocker = true
 pipeCurve05m01456GLTFShape.visible = true
@@ -1417,7 +1417,7 @@ const streetFence01471transform = new Transform({
   scale: new Vector3(1, 1.5, 1)
 })
 streetFence01471.addComponentOrReplace(streetFence01471transform)
-const streetFence01471GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/StreetFence_01/StreetFence_01.glb")
+const streetFence01471GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/StreetFence_01/StreetFence_01.glb")
 streetFence01471GLTFShape.withCollisions = true
 streetFence01471GLTFShape.isPointerBlocker = true
 streetFence01471GLTFShape.visible = true
@@ -1473,7 +1473,7 @@ const plasmaBlue01292transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plasmaBlue01292.addComponentOrReplace(plasmaBlue01292transform)
-const plasmaBlue01292GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlasmaBlue_01/PlasmaBlue_01.glb")
+const plasmaBlue01292GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlasmaBlue_01/PlasmaBlue_01.glb")
 plasmaBlue01292GLTFShape.withCollisions = true
 plasmaBlue01292GLTFShape.isPointerBlocker = true
 plasmaBlue01292GLTFShape.visible = true
@@ -1502,7 +1502,7 @@ const dockStraight01487transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 dockStraight01487.addComponentOrReplace(dockStraight01487transform)
-const dockStraight01487GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_Straight_01/Dock_Straight_01.glb")
+const dockStraight01487GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_Straight_01/Dock_Straight_01.glb")
 dockStraight01487GLTFShape.withCollisions = true
 dockStraight01487GLTFShape.isPointerBlocker = true
 dockStraight01487GLTFShape.visible = true
@@ -1519,7 +1519,7 @@ const lightCube01489transform = new Transform({
   scale: new Vector3(3.924, 0.923, 3.979488)
 })
 lightCube01489.addComponentOrReplace(lightCube01489transform)
-const lightCube01489GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/LightCube_01/LightCube_01.glb")
+const lightCube01489GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/LightCube_01/LightCube_01.glb")
 lightCube01489GLTFShape.withCollisions = true
 lightCube01489GLTFShape.isPointerBlocker = true
 lightCube01489GLTFShape.visible = true
@@ -1662,7 +1662,7 @@ const hallwayModuleDoor01486transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01486.addComponentOrReplace(hallwayModuleDoor01486transform)
-const hallwayModuleDoor01486GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Door_01/Hallway_Module_Door_01.glb")
+const hallwayModuleDoor01486GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Door_01/Hallway_Module_Door_01.glb")
 hallwayModuleDoor01486GLTFShape.withCollisions = true
 hallwayModuleDoor01486GLTFShape.isPointerBlocker = true
 hallwayModuleDoor01486GLTFShape.visible = true
@@ -1835,7 +1835,7 @@ const solarPanel01439transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 solarPanel01439.addComponentOrReplace(solarPanel01439transform)
-const solarPanel01439GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/SolarPanel_01/SolarPanel_01.glb")
+const solarPanel01439GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/SolarPanel_01/SolarPanel_01.glb")
 solarPanel01439GLTFShape.withCollisions = true
 solarPanel01439GLTFShape.isPointerBlocker = true
 solarPanel01439GLTFShape.visible = true
@@ -2034,7 +2034,7 @@ const pod02428transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 pod02428.addComponentOrReplace(pod02428transform)
-const pod02428GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Pod_02/Pod_02.glb")
+const pod02428GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Pod_02/Pod_02.glb")
 pod02428GLTFShape.withCollisions = true
 pod02428GLTFShape.isPointerBlocker = true
 pod02428GLTFShape.visible = true
@@ -2051,7 +2051,7 @@ const hallwayModuleCross01352transform = new Transform({
   scale: new Vector3(1, 1, 0.937)
 })
 hallwayModuleCross01352.addComponentOrReplace(hallwayModuleCross01352transform)
-const hallwayModuleCross01352GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Cross_01/Hallway_Module_Cross_01.glb")
+const hallwayModuleCross01352GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Cross_01/Hallway_Module_Cross_01.glb")
 hallwayModuleCross01352GLTFShape.withCollisions = true
 hallwayModuleCross01352GLTFShape.isPointerBlocker = true
 hallwayModuleCross01352GLTFShape.visible = true
@@ -2082,7 +2082,7 @@ const hallwayModuleStraight02353transform = new Transform({
   scale: new Vector3(1, 1, 1.189)
 })
 hallwayModuleStraight02353.addComponentOrReplace(hallwayModuleStraight02353transform)
-const hallwayModuleStraight02353GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Straight_02/Hallway_Module_Straight_02.glb")
+const hallwayModuleStraight02353GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Straight_02/Hallway_Module_Straight_02.glb")
 hallwayModuleStraight02353GLTFShape.withCollisions = true
 hallwayModuleStraight02353GLTFShape.isPointerBlocker = true
 hallwayModuleStraight02353GLTFShape.visible = true
@@ -2138,7 +2138,7 @@ const dockStair01325transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 dockStair01325.addComponentOrReplace(dockStair01325transform)
-const dockStair01325GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_Stair_01/Dock_Stair_01.glb")
+const dockStair01325GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_Stair_01/Dock_Stair_01.glb")
 dockStair01325GLTFShape.withCollisions = true
 dockStair01325GLTFShape.isPointerBlocker = true
 dockStair01325GLTFShape.visible = true
@@ -2155,7 +2155,7 @@ const floorSciFiPanel02350transform = new Transform({
   scale: new Vector3(2.4, 1, 2.913)
 })
 floorSciFiPanel02350.addComponentOrReplace(floorSciFiPanel02350transform)
-const floorSciFiPanel02350GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/FloorSciFiPanel_02/FloorSciFiPanel_02.glb")
+const floorSciFiPanel02350GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/FloorSciFiPanel_02/FloorSciFiPanel_02.glb")
 floorSciFiPanel02350GLTFShape.withCollisions = true
 floorSciFiPanel02350GLTFShape.isPointerBlocker = true
 floorSciFiPanel02350GLTFShape.visible = true
@@ -2172,7 +2172,7 @@ const hal900001344transform = new Transform({
   scale: new Vector3(23.3, 1, 23.3)
 })
 hal900001344.addComponentOrReplace(hal900001344transform)
-const hal900001344GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/HAL9000_01/HAL9000_01.glb")
+const hal900001344GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/HAL9000_01/HAL9000_01.glb")
 hal900001344GLTFShape.withCollisions = true
 hal900001344GLTFShape.isPointerBlocker = true
 hal900001344GLTFShape.visible = true
@@ -2215,7 +2215,7 @@ const hallwayModuleStraightHalf01338transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleStraightHalf01338.addComponentOrReplace(hallwayModuleStraightHalf01338transform)
-const hallwayModuleStraightHalf01338GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_StraightHalf_01/Hallway_Module_StraightHalf_01.glb")
+const hallwayModuleStraightHalf01338GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_StraightHalf_01/Hallway_Module_StraightHalf_01.glb")
 hallwayModuleStraightHalf01338GLTFShape.withCollisions = true
 hallwayModuleStraightHalf01338GLTFShape.isPointerBlocker = true
 hallwayModuleStraightHalf01338GLTFShape.visible = true
@@ -2271,7 +2271,7 @@ const fenceStraight01336transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 fenceStraight01336.addComponentOrReplace(fenceStraight01336transform)
-const fenceStraight01336GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Fence_Straight_01/Fence_Straight_01.glb")
+const fenceStraight01336GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Fence_Straight_01/Fence_Straight_01.glb")
 fenceStraight01336GLTFShape.withCollisions = true
 fenceStraight01336GLTFShape.isPointerBlocker = true
 fenceStraight01336GLTFShape.visible = true
@@ -2340,7 +2340,7 @@ const fenceEnd01331transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 fenceEnd01331.addComponentOrReplace(fenceEnd01331transform)
-const fenceEnd01331GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Fence_End_01/Fence_End_01.glb")
+const fenceEnd01331GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Fence_End_01/Fence_End_01.glb")
 fenceEnd01331GLTFShape.withCollisions = true
 fenceEnd01331GLTFShape.isPointerBlocker = true
 fenceEnd01331GLTFShape.visible = true
@@ -2357,7 +2357,7 @@ const dockRamp01330transform = new Transform({
   scale: new Vector3(1, 1, 2.341)
 })
 dockRamp01330.addComponentOrReplace(dockRamp01330transform)
-const dockRamp01330GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_Ramp_01/Dock_Ramp_01.glb")
+const dockRamp01330GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_Ramp_01/Dock_Ramp_01.glb")
 dockRamp01330GLTFShape.withCollisions = true
 dockRamp01330GLTFShape.isPointerBlocker = true
 dockRamp01330GLTFShape.visible = true
@@ -2374,7 +2374,7 @@ const dockCurve01326transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 dockCurve01326.addComponentOrReplace(dockCurve01326transform)
-const dockCurve01326GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_Curve_01/Dock_Curve_01.glb")
+const dockCurve01326GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_Curve_01/Dock_Curve_01.glb")
 dockCurve01326GLTFShape.withCollisions = true
 dockCurve01326GLTFShape.isPointerBlocker = true
 dockCurve01326GLTFShape.visible = true
@@ -2391,7 +2391,7 @@ const dockDoorAdapter01323transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 dockDoorAdapter01323.addComponentOrReplace(dockDoorAdapter01323transform)
-const dockDoorAdapter01323GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_DoorAdapter_01/Dock_DoorAdapter_01.glb")
+const dockDoorAdapter01323GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_DoorAdapter_01/Dock_DoorAdapter_01.glb")
 dockDoorAdapter01323GLTFShape.withCollisions = true
 dockDoorAdapter01323GLTFShape.isPointerBlocker = true
 dockDoorAdapter01323GLTFShape.visible = true
@@ -2434,7 +2434,7 @@ const hallwayModuleDoor02320transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor02320.addComponentOrReplace(hallwayModuleDoor02320transform)
-const hallwayModuleDoor02320GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Door_02/Hallway_Module_Door_02.glb")
+const hallwayModuleDoor02320GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Door_02/Hallway_Module_Door_02.glb")
 hallwayModuleDoor02320GLTFShape.withCollisions = true
 hallwayModuleDoor02320GLTFShape.isPointerBlocker = true
 hallwayModuleDoor02320GLTFShape.visible = true
@@ -2529,7 +2529,7 @@ const pod01308transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 pod01308.addComponentOrReplace(pod01308transform)
-const pod01308GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Pod_01/Pod_01.glb")
+const pod01308GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Pod_01/Pod_01.glb")
 pod01308GLTFShape.withCollisions = true
 pod01308GLTFShape.isPointerBlocker = true
 pod01308GLTFShape.visible = true
@@ -2650,7 +2650,7 @@ const tableSciFi02298transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 tableSciFi02298.addComponentOrReplace(tableSciFi02298transform)
-const tableSciFi02298GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/TableSciFi_02/TableSciFi_02.glb")
+const tableSciFi02298GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/TableSciFi_02/TableSciFi_02.glb")
 tableSciFi02298GLTFShape.withCollisions = true
 tableSciFi02298GLTFShape.isPointerBlocker = true
 tableSciFi02298GLTFShape.visible = true
@@ -2719,7 +2719,7 @@ const plasmaPink01294transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plasmaPink01294.addComponentOrReplace(plasmaPink01294transform)
-const plasmaPink01294GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlasmaPink_01/PlasmaPink_01.glb")
+const plasmaPink01294GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlasmaPink_01/PlasmaPink_01.glb")
 plasmaPink01294GLTFShape.withCollisions = true
 plasmaPink01294GLTFShape.isPointerBlocker = true
 plasmaPink01294GLTFShape.visible = true
@@ -2736,7 +2736,7 @@ const plasmaYellow01295transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plasmaYellow01295.addComponentOrReplace(plasmaYellow01295transform)
-const plasmaYellow01295GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlasmaYellow_01/PlasmaYellow_01.glb")
+const plasmaYellow01295GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlasmaYellow_01/PlasmaYellow_01.glb")
 plasmaYellow01295GLTFShape.withCollisions = true
 plasmaYellow01295GLTFShape.isPointerBlocker = true
 plasmaYellow01295GLTFShape.visible = true
@@ -2753,7 +2753,7 @@ const plantSf12290transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf12290.addComponentOrReplace(plantSf12290transform)
-const plantSf12290GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_12/PlantSF_12.glb")
+const plantSf12290GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_12/PlantSF_12.glb")
 plantSf12290GLTFShape.withCollisions = true
 plantSf12290GLTFShape.isPointerBlocker = true
 plantSf12290GLTFShape.visible = true
@@ -2783,7 +2783,7 @@ const plantSf13291transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf13291.addComponentOrReplace(plantSf13291transform)
-const plantSf13291GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_13/PlantSF_13.glb")
+const plantSf13291GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_13/PlantSF_13.glb")
 plantSf13291GLTFShape.withCollisions = true
 plantSf13291GLTFShape.isPointerBlocker = true
 plantSf13291GLTFShape.visible = true
@@ -2800,7 +2800,7 @@ const plantSf09287transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf09287.addComponentOrReplace(plantSf09287transform)
-const plantSf09287GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_09/PlantSF_09.glb")
+const plantSf09287GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_09/PlantSF_09.glb")
 plantSf09287GLTFShape.withCollisions = true
 plantSf09287GLTFShape.isPointerBlocker = true
 plantSf09287GLTFShape.visible = true
@@ -2817,7 +2817,7 @@ const plantSf02280transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf02280.addComponentOrReplace(plantSf02280transform)
-const plantSf02280GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_02/PlantSF_02.glb")
+const plantSf02280GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_02/PlantSF_02.glb")
 plantSf02280GLTFShape.withCollisions = true
 plantSf02280GLTFShape.isPointerBlocker = true
 plantSf02280GLTFShape.visible = true
@@ -2834,7 +2834,7 @@ const plantSf11289transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf11289.addComponentOrReplace(plantSf11289transform)
-const plantSf11289GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_11/PlantSF_11.glb")
+const plantSf11289GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_11/PlantSF_11.glb")
 plantSf11289GLTFShape.withCollisions = true
 plantSf11289GLTFShape.isPointerBlocker = true
 plantSf11289GLTFShape.visible = true
@@ -2851,7 +2851,7 @@ const plasmaGreen01293transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plasmaGreen01293.addComponentOrReplace(plasmaGreen01293transform)
-const plasmaGreen01293GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlasmaGreen_01/PlasmaGreen_01.glb")
+const plasmaGreen01293GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlasmaGreen_01/PlasmaGreen_01.glb")
 plasmaGreen01293GLTFShape.withCollisions = true
 plasmaGreen01293GLTFShape.isPointerBlocker = true
 plasmaGreen01293GLTFShape.visible = true
@@ -2868,7 +2868,7 @@ const plantSf01279transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf01279.addComponentOrReplace(plantSf01279transform)
-const plantSf01279GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_01/PlantSF_01.glb")
+const plantSf01279GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_01/PlantSF_01.glb")
 plantSf01279GLTFShape.withCollisions = true
 plantSf01279GLTFShape.isPointerBlocker = true
 plantSf01279GLTFShape.visible = true
@@ -2885,7 +2885,7 @@ const plantSf03281transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf03281.addComponentOrReplace(plantSf03281transform)
-const plantSf03281GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_03/PlantSF_03.glb")
+const plantSf03281GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_03/PlantSF_03.glb")
 plantSf03281GLTFShape.withCollisions = true
 plantSf03281GLTFShape.isPointerBlocker = true
 plantSf03281GLTFShape.visible = true
@@ -2902,7 +2902,7 @@ const computer02273transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 computer02273.addComponentOrReplace(computer02273transform)
-const computer02273GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Computer_02/Computer_02.glb")
+const computer02273GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Computer_02/Computer_02.glb")
 computer02273GLTFShape.withCollisions = true
 computer02273GLTFShape.isPointerBlocker = true
 computer02273GLTFShape.visible = true
@@ -2919,7 +2919,7 @@ const plantSf06284transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf06284.addComponentOrReplace(plantSf06284transform)
-const plantSf06284GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_06/PlantSF_06.glb")
+const plantSf06284GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_06/PlantSF_06.glb")
 plantSf06284GLTFShape.withCollisions = true
 plantSf06284GLTFShape.isPointerBlocker = true
 plantSf06284GLTFShape.visible = true
@@ -2936,7 +2936,7 @@ const plantSf05283transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf05283.addComponentOrReplace(plantSf05283transform)
-const plantSf05283GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_05/PlantSF_05.glb")
+const plantSf05283GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_05/PlantSF_05.glb")
 plantSf05283GLTFShape.withCollisions = true
 plantSf05283GLTFShape.isPointerBlocker = true
 plantSf05283GLTFShape.visible = true
@@ -2953,7 +2953,7 @@ const plantSf08286transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf08286.addComponentOrReplace(plantSf08286transform)
-const plantSf08286GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_08/PlantSF_08.glb")
+const plantSf08286GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_08/PlantSF_08.glb")
 plantSf08286GLTFShape.withCollisions = true
 plantSf08286GLTFShape.isPointerBlocker = true
 plantSf08286GLTFShape.visible = true
@@ -2970,7 +2970,7 @@ const plantSf07285transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf07285.addComponentOrReplace(plantSf07285transform)
-const plantSf07285GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_07/PlantSF_07.glb")
+const plantSf07285GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_07/PlantSF_07.glb")
 plantSf07285GLTFShape.withCollisions = true
 plantSf07285GLTFShape.isPointerBlocker = true
 plantSf07285GLTFShape.visible = true
@@ -2987,7 +2987,7 @@ const gasCharger01278transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 gasCharger01278.addComponentOrReplace(gasCharger01278transform)
-const gasCharger01278GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/GasCharger_01/GasCharger_01.glb")
+const gasCharger01278GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/GasCharger_01/GasCharger_01.glb")
 gasCharger01278GLTFShape.withCollisions = true
 gasCharger01278GLTFShape.isPointerBlocker = true
 gasCharger01278GLTFShape.visible = true
@@ -3004,7 +3004,7 @@ const healthBed01277transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 healthBed01277.addComponentOrReplace(healthBed01277transform)
-const healthBed01277GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/HealthBed_01/HealthBed_01.glb")
+const healthBed01277GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/HealthBed_01/HealthBed_01.glb")
 healthBed01277GLTFShape.withCollisions = true
 healthBed01277GLTFShape.isPointerBlocker = true
 healthBed01277GLTFShape.visible = true
@@ -3021,7 +3021,7 @@ const crateBlueBig01276transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crateBlueBig01276.addComponentOrReplace(crateBlueBig01276transform)
-const crateBlueBig01276GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/CrateBlueBig_01/CrateBlueBig_01.glb")
+const crateBlueBig01276GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/CrateBlueBig_01/CrateBlueBig_01.glb")
 crateBlueBig01276GLTFShape.withCollisions = true
 crateBlueBig01276GLTFShape.isPointerBlocker = true
 crateBlueBig01276GLTFShape.visible = true
@@ -3038,7 +3038,7 @@ const crateBlue01275transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crateBlue01275.addComponentOrReplace(crateBlue01275transform)
-const crateBlue01275GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/CrateBlue_01/CrateBlue_01.glb")
+const crateBlue01275GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/CrateBlue_01/CrateBlue_01.glb")
 crateBlue01275GLTFShape.withCollisions = true
 crateBlue01275GLTFShape.isPointerBlocker = true
 crateBlue01275GLTFShape.visible = true
@@ -3055,7 +3055,7 @@ const crateOrange01274transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crateOrange01274.addComponentOrReplace(crateOrange01274transform)
-const crateOrange01274GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/CrateOrange_01/CrateOrange_01.glb")
+const crateOrange01274GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/CrateOrange_01/CrateOrange_01.glb")
 crateOrange01274GLTFShape.withCollisions = true
 crateOrange01274GLTFShape.isPointerBlocker = true
 crateOrange01274GLTFShape.visible = true
@@ -3072,7 +3072,7 @@ const desk01272transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 desk01272.addComponentOrReplace(desk01272transform)
-const desk01272GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Desk_01/Desk_01.glb")
+const desk01272GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Desk_01/Desk_01.glb")
 desk01272GLTFShape.withCollisions = true
 desk01272GLTFShape.isPointerBlocker = true
 desk01272GLTFShape.visible = true
@@ -3089,7 +3089,7 @@ const cryogenicChamberBase01269transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 cryogenicChamberBase01269.addComponentOrReplace(cryogenicChamberBase01269transform)
-const cryogenicChamberBase01269GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/CryogenicChamberBase_01/CryogenicChamberBase_01.glb")
+const cryogenicChamberBase01269GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/CryogenicChamberBase_01/CryogenicChamberBase_01.glb")
 cryogenicChamberBase01269GLTFShape.withCollisions = true
 cryogenicChamberBase01269GLTFShape.isPointerBlocker = true
 cryogenicChamberBase01269GLTFShape.visible = true
@@ -3119,7 +3119,7 @@ const crygenicChamberTop01270transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 crygenicChamberTop01270.addComponentOrReplace(crygenicChamberTop01270transform)
-const crygenicChamberTop01270GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/CrygenicChamberTop_01/CrygenicChamberTop_01.glb")
+const crygenicChamberTop01270GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/CrygenicChamberTop_01/CrygenicChamberTop_01.glb")
 crygenicChamberTop01270GLTFShape.withCollisions = true
 crygenicChamberTop01270GLTFShape.isPointerBlocker = true
 crygenicChamberTop01270GLTFShape.visible = true
@@ -3279,7 +3279,7 @@ const hallwayModuleStraight01258transform = new Transform({
   scale: new Vector3(1, 1, 1.2)
 })
 hallwayModuleStraight01258.addComponentOrReplace(hallwayModuleStraight01258transform)
-const hallwayModuleStraight01258GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Straight_01/Hallway_Module_Straight_01.glb")
+const hallwayModuleStraight01258GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Straight_01/Hallway_Module_Straight_01.glb")
 hallwayModuleStraight01258GLTFShape.withCollisions = true
 hallwayModuleStraight01258GLTFShape.isPointerBlocker = true
 hallwayModuleStraight01258GLTFShape.visible = true
@@ -3504,7 +3504,7 @@ const hallwayModuleCurve01229transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleCurve01229.addComponentOrReplace(hallwayModuleCurve01229transform)
-const hallwayModuleCurve01229GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Module_Curve_01/Hallway_Module_Curve_01.glb")
+const hallwayModuleCurve01229GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Curve_01/Hallway_Module_Curve_01.glb")
 hallwayModuleCurve01229GLTFShape.withCollisions = true
 hallwayModuleCurve01229GLTFShape.isPointerBlocker = true
 hallwayModuleCurve01229GLTFShape.visible = true
@@ -3781,7 +3781,7 @@ const lightBlock03209transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 lightBlock03209.addComponentOrReplace(lightBlock03209transform)
-const lightBlock03209GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/LightBlock_03/LightBlock_03.glb")
+const lightBlock03209GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/LightBlock_03/LightBlock_03.glb")
 lightBlock03209GLTFShape.withCollisions = true
 lightBlock03209GLTFShape.isPointerBlocker = true
 lightBlock03209GLTFShape.visible = true
@@ -3915,7 +3915,7 @@ const fenceStraight02197transform = new Transform({
   scale: new Vector3(1.62, 1, 1)
 })
 fenceStraight02197.addComponentOrReplace(fenceStraight02197transform)
-const fenceStraight02197GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Fence_Straight_02/Fence_Straight_02.glb")
+const fenceStraight02197GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Fence_Straight_02/Fence_Straight_02.glb")
 fenceStraight02197GLTFShape.withCollisions = true
 fenceStraight02197GLTFShape.isPointerBlocker = true
 fenceStraight02197GLTFShape.visible = true
@@ -4010,7 +4010,7 @@ const greenHouse01194transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 greenHouse01194.addComponentOrReplace(greenHouse01194transform)
-const greenHouse01194GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/GreenHouse_01/GreenHouse_01.glb")
+const greenHouse01194GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/GreenHouse_01/GreenHouse_01.glb")
 greenHouse01194GLTFShape.withCollisions = true
 greenHouse01194GLTFShape.isPointerBlocker = true
 greenHouse01194GLTFShape.visible = true
@@ -4053,7 +4053,7 @@ const dockColumn01189transform = new Transform({
   scale: new Vector3(1, 1.163, 1)
 })
 dockColumn01189.addComponentOrReplace(dockColumn01189transform)
-const dockColumn01189GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Dock_Column_01/Dock_Column_01.glb")
+const dockColumn01189GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Dock_Column_01/Dock_Column_01.glb")
 dockColumn01189GLTFShape.withCollisions = true
 dockColumn01189GLTFShape.isPointerBlocker = true
 dockColumn01189GLTFShape.visible = true
@@ -4317,7 +4317,7 @@ const pod03169transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 pod03169.addComponentOrReplace(pod03169transform)
-const pod03169GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Pod_03/Pod_03.glb")
+const pod03169GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Pod_03/Pod_03.glb")
 pod03169GLTFShape.withCollisions = true
 pod03169GLTFShape.isPointerBlocker = true
 pod03169GLTFShape.visible = true
@@ -4334,7 +4334,7 @@ const buttonPanel01165transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 buttonPanel01165.addComponentOrReplace(buttonPanel01165transform)
-const buttonPanel01165GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/ButtonPanel_01/ButtonPanel_01.glb")
+const buttonPanel01165GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/ButtonPanel_01/ButtonPanel_01.glb")
 buttonPanel01165GLTFShape.withCollisions = true
 buttonPanel01165GLTFShape.isPointerBlocker = true
 buttonPanel01165GLTFShape.visible = true
@@ -4390,7 +4390,7 @@ const greenHouse02156transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 greenHouse02156.addComponentOrReplace(greenHouse02156transform)
-const greenHouse02156GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/GreenHouse_02/GreenHouse_02.glb")
+const greenHouse02156GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/GreenHouse_02/GreenHouse_02.glb")
 greenHouse02156GLTFShape.withCollisions = true
 greenHouse02156GLTFShape.isPointerBlocker = true
 greenHouse02156GLTFShape.visible = true
@@ -4433,7 +4433,7 @@ const hallwayBigModule01346transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayBigModule01346.addComponentOrReplace(hallwayBigModule01346transform)
-const hallwayBigModule01346GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/Hallway_Big_Module_01/Hallway_Big_Module_01.glb")
+const hallwayBigModule01346GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Big_Module_01/Hallway_Big_Module_01.glb")
 hallwayBigModule01346GLTFShape.withCollisions = true
 hallwayBigModule01346GLTFShape.isPointerBlocker = true
 hallwayBigModule01346GLTFShape.visible = true
@@ -4541,7 +4541,7 @@ const spaceShipBase01137transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 spaceShipBase01137.addComponentOrReplace(spaceShipBase01137transform)
-const spaceShipBase01137GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/SpaceShipBase_01/SpaceShipBase_01.glb")
+const spaceShipBase01137GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/SpaceShipBase_01/SpaceShipBase_01.glb")
 spaceShipBase01137GLTFShape.withCollisions = true
 spaceShipBase01137GLTFShape.isPointerBlocker = true
 spaceShipBase01137GLTFShape.visible = true
@@ -4558,7 +4558,7 @@ const spaceShip03138transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 spaceShip03138.addComponentOrReplace(spaceShip03138transform)
-const spaceShip03138GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/SpaceShip_03/SpaceShip_03.glb")
+const spaceShip03138GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/SpaceShip_03/SpaceShip_03.glb")
 spaceShip03138GLTFShape.withCollisions = true
 spaceShip03138GLTFShape.isPointerBlocker = true
 spaceShip03138GLTFShape.visible = true
@@ -4718,7 +4718,7 @@ const plantSf04282transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 plantSf04282.addComponentOrReplace(plantSf04282transform)
-const plantSf04282GLTFShape = new GLTFShape("assets_github/Builder-Assets/builder-assets/assets/00_SciFi_Pack/PlantSF_04/PlantSF_04.glb")
+const plantSf04282GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/PlantSF_04/PlantSF_04.glb")
 plantSf04282GLTFShape.withCollisions = true
 plantSf04282GLTFShape.isPointerBlocker = true
 plantSf04282GLTFShape.visible = true
