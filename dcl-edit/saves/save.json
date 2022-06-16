@@ -12007,7 +12007,7 @@
             "uniqueNumber": 502,
             "parent": 1015,
             "exposed": false,
-            "collapsedChildren": false,
+            "collapsedChildren": true,
             "components": [
                 {
                     "name": "transform",
