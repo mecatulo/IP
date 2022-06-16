@@ -840,7 +840,7 @@ stone05539.addComponentOrReplace(stone05236GLTFShape)
 const stone04540 = new Entity("Stone 04")
 engine.addEntity(stone04540)
 const stone04540transform = new Transform({
-  position: new Vector3(-3.396999, 0, -31.85),
+  position: new Vector3(-3.710102, 0, -33.66267),
   rotation: new Quaternion(0, 0.9963453, 0, -0.08541694),
   scale: new Vector3(1, 1, 1)
 })
@@ -9014,7 +9014,7 @@ pipeStraight1m01982.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01983 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01983)
 const pipeStraight1m01983transform = new Transform({
-  position: new Vector3(2.009731, 24.23867, 21.19149),
+  position: new Vector3(2.009731, 24.23868, 21.19149),
   rotation: new Quaternion(1.637385E-08, -0.2902429, -4.12176E-10, 0.956953),
   scale: new Vector3(1, 1, 1)
 })
@@ -9106,7 +9106,7 @@ dockStraight01493.addComponentOrReplace(dockStraight01315GLTFShape)
 const flyingPlatform4498 = new Entity("Flying Platform 4")
 engine.addEntity(flyingPlatform4498)
 const flyingPlatform4498transform = new Transform({
-  position: new Vector3(18.446, 7.25, -6.555),
+  position: new Vector3(18.446, 7.250001, -6.555),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -9131,7 +9131,7 @@ lightCube01500.addComponentOrReplace(lightCube01494GLTFShape)
 const dockStraight01499 = new Entity("Dock Straight 01")
 engine.addEntity(dockStraight01499)
 const dockStraight01499transform = new Transform({
-  position: new Vector3(1.516998, 0.001001358, 1.494999),
+  position: new Vector3(1.516998, 0.0009994507, 1.494999),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -10214,6 +10214,5 @@ hebelplatforms1054.setParent(interactables1015)
 
 
 export let scene = {
-  batteryRoboter510, roboter511
 }
 
