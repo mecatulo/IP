@@ -10214,5 +10214,6 @@ hebelplatforms1054.setParent(interactables1015)
 
 
 export let scene = {
+  batteryRoboter510, roboter511
 }
 
