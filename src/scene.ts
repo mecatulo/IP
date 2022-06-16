@@ -9144,7 +9144,7 @@ dockStraight01499.addComponentOrReplace(dockStraight01315GLTFShape)
 const flyingPlatform51017 = new Entity("Flying Platform 5")
 engine.addEntity(flyingPlatform51017)
 const flyingPlatform51017transform = new Transform({
-  position: new Vector3(19.58, 9.154, -0.7470016),
+  position: new Vector3(19.58, 8.883281, -0.8970261),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -9258,7 +9258,7 @@ dockStraight01496.addComponentOrReplace(dockStraight01315GLTFShape)
 const flyingPlatform91020 = new Entity("Flying Platform 9")
 engine.addEntity(flyingPlatform91020)
 const flyingPlatform91020transform = new Transform({
-  position: new Vector3(23.426, 16.09456, 18.357),
+  position: new Vector3(23.426, 15.12346, 18.357),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -9296,7 +9296,7 @@ lightCube011057.addComponentOrReplace(lightCube01494GLTFShape)
 const flyingPlatform61023 = new Entity("Flying Platform 6")
 engine.addEntity(flyingPlatform61023)
 const flyingPlatform61023transform = new Transform({
-  position: new Vector3(19.58, 10.682, 4.560001),
+  position: new Vector3(19.58, 10.43737, 4.560001),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -9334,7 +9334,7 @@ lightCube011025.addComponentOrReplace(lightCube01494GLTFShape)
 const flyingPlatform71026 = new Entity("Flying Platform 7")
 engine.addEntity(flyingPlatform71026)
 const flyingPlatform71026transform = new Transform({
-  position: new Vector3(19.58, 12.737, 9.387001),
+  position: new Vector3(19.58, 11.90153, 9.387001),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -9372,7 +9372,7 @@ dockStraight011027.addComponentOrReplace(dockStraight01315GLTFShape)
 const flyingPlatform81056 = new Entity("Flying Platform 8")
 engine.addEntity(flyingPlatform81056)
 const flyingPlatform81056transform = new Transform({
-  position: new Vector3(22.696, 14.134, 13.877),
+  position: new Vector3(22.696, 13.55578, 13.877),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
