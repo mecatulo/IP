@@ -6204,6 +6204,11 @@
             "name": "Vault 01",
             "id": "a0e95301-da50-4db5-a785-ac7cf91fc314",
             "gltfPath": "assets_github/00_SciFi_Pack/Vault_01/Vault_01.glb"
+        },
+        {
+            "name": "Dock Column 01",
+            "id": "b94a7781-b848-4ef9-ac3d-6f427d7456b5",
+            "gltfPath": "assets_github/00_SciFi_Pack/Dock_Column_02/Dock_Column_01.glb"
         }
     ]
 }
