@@ -5164,5 +5164,6 @@ dockStraight01499.setParent(flyingPlatform4498)
 
 
 export let scene = {
+  batteryRoboter510, roboter511
 }
 
