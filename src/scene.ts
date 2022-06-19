@@ -5143,7 +5143,7 @@ antenna01421.addComponentOrReplace(antenna01421GLTFShape)
 const antenna03423 = new Entity("Antenna 03")
 engine.addEntity(antenna03423)
 const antenna03423transform = new Transform({
-  position: new Vector3(2.555, 29.54205, 23.359),
+  position: new Vector3(2.555, 29.54206, 23.359),
   rotation: new Quaternion(0, 0.9106836, 0, 0.4131044),
   scale: new Vector3(0.5, 0.5, 0.5)
 })
@@ -5199,7 +5199,7 @@ pipeStraight1m01445.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01454 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01454)
 const pipeStraight1m01454transform = new Transform({
-  position: new Vector3(2.009739, 3.418328, 21.19148),
+  position: new Vector3(2.009739, 3.418329, 21.19148),
   rotation: new Quaternion(1.637385E-08, -0.2902429, -4.12176E-10, 0.956953),
   scale: new Vector3(1, 1, 1)
 })
@@ -5225,7 +5225,7 @@ pipeStraight1m01449.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01452 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01452)
 const pipeStraight1m01452transform = new Transform({
-  position: new Vector3(2.009739, 6.398669, 21.19148),
+  position: new Vector3(2.009739, 6.39867, 21.19148),
   rotation: new Quaternion(1.637385E-08, -0.2902429, -4.12176E-10, 0.956953),
   scale: new Vector3(1, 1, 1)
 })
@@ -5238,7 +5238,7 @@ pipeStraight1m01452.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01455 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01455)
 const pipeStraight1m01455transform = new Transform({
-  position: new Vector3(2.009739, 1.938167, 21.19148),
+  position: new Vector3(2.009739, 1.938168, 21.19148),
   rotation: new Quaternion(1.637385E-08, -0.2902429, -4.12176E-10, 0.956953),
   scale: new Vector3(1, 1, 1)
 })
@@ -5251,7 +5251,7 @@ pipeStraight1m01455.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01451 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01451)
 const pipeStraight1m01451transform = new Transform({
-  position: new Vector3(2.009731, 7.879668, 21.19149),
+  position: new Vector3(2.009731, 7.879669, 21.19149),
   rotation: new Quaternion(1.637385E-08, -0.2902429, -4.12176E-10, 0.956953),
   scale: new Vector3(1, 1, 1)
 })
@@ -5303,7 +5303,7 @@ pipeStraight1m01450.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01457 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01457)
 const pipeStraight1m01457transform = new Transform({
-  position: new Vector3(1.396137, 1.649167, 20.78151),
+  position: new Vector3(1.396137, 1.649168, 20.78151),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5316,7 +5316,7 @@ pipeStraight1m01457.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01458 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01458)
 const pipeStraight1m01458transform = new Transform({
-  position: new Vector3(0.1522827, 1.649167, 19.95064),
+  position: new Vector3(0.1522827, 1.649168, 19.95064),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5329,7 +5329,7 @@ pipeStraight1m01458.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01460 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01460)
 const pipeStraight1m01460transform = new Transform({
-  position: new Vector3(-2.340588, 1.649167, 18.28524),
+  position: new Vector3(-2.340588, 1.649168, 18.28524),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5355,7 +5355,7 @@ pipeStraight1m01464.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01463 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01463)
 const pipeStraight1m01463transform = new Transform({
-  position: new Vector3(-6.055969, 1.649167, 15.8032),
+  position: new Vector3(-6.055969, 1.649168, 15.8032),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5368,7 +5368,7 @@ pipeStraight1m01463.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeCurve05m01456 = new Entity("Pipe Curve 05M 01")
 engine.addEntity(pipeCurve05m01456)
 const pipeCurve05m01456transform = new Transform({
-  position: new Vector3(1.388325, 1.653167, 20.77874),
+  position: new Vector3(1.388325, 1.653168, 20.77874),
   rotation: new Quaternion(-0.2052326, 0.2052325, 0.6766682, -0.6766679),
   scale: new Vector3(1, 1, 1)
 })
@@ -5385,7 +5385,7 @@ pipeCurve05m01456.addComponentOrReplace(pipeCurve05m01456GLTFShape)
 const pipeStraight1m01459 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01459)
 const pipeStraight1m01459transform = new Transform({
-  position: new Vector3(-1.090145, 1.649167, 19.12062),
+  position: new Vector3(-1.090145, 1.649168, 19.12062),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5398,7 +5398,7 @@ pipeStraight1m01459.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01462 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01462)
 const pipeStraight1m01462transform = new Transform({
-  position: new Vector3(-4.827816, 1.649167, 16.62366),
+  position: new Vector3(-4.827816, 1.649168, 16.62366),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5411,7 +5411,7 @@ pipeStraight1m01462.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01465 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01465)
 const pipeStraight1m01465transform = new Transform({
-  position: new Vector3(-8.540531, 1.649167, 14.14342),
+  position: new Vector3(-8.540531, 1.649168, 14.14342),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5424,7 +5424,7 @@ pipeStraight1m01465.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01469 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01469)
 const pipeStraight1m01469transform = new Transform({
-  position: new Vector3(-11.00975, 1.649167, 12.49383),
+  position: new Vector3(-11.00975, 1.649168, 12.49383),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5437,7 +5437,7 @@ pipeStraight1m01469.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01467 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01467)
 const pipeStraight1m01467transform = new Transform({
-  position: new Vector3(-7.299557, 1.649167, 14.97243),
+  position: new Vector3(-7.299557, 1.649168, 14.97243),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5450,7 +5450,7 @@ pipeStraight1m01467.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01466 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01466)
 const pipeStraight1m01466transform = new Transform({
-  position: new Vector3(-8.540531, 1.649167, 14.14342),
+  position: new Vector3(-8.540531, 1.649168, 14.14342),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5463,7 +5463,7 @@ pipeStraight1m01466.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01470 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01470)
 const pipeStraight1m01470transform = new Transform({
-  position: new Vector3(-12.25074, 1.649167, 11.66481),
+  position: new Vector3(-12.25074, 1.649168, 11.66481),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -5476,7 +5476,7 @@ pipeStraight1m01470.addComponentOrReplace(pipeStraight1m01448GLTFShape)
 const pipeStraight1m01468 = new Entity("Pipe Straight 1M 01")
 engine.addEntity(pipeStraight1m01468)
 const pipeStraight1m01468transform = new Transform({
-  position: new Vector3(-9.76614, 1.649167, 13.32463),
+  position: new Vector3(-9.76614, 1.649168, 13.32463),
   rotation: new Quaternion(-0.2052325, -0.2052325, 0.676668, 0.676668),
   scale: new Vector3(1, 1, 1)
 })
@@ -6114,40 +6114,6 @@ doors1031.addComponentOrReplace(doors1031transform)
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
 
-const door1closed1033 = new Entity("door_1_closed")
-engine.addEntity(door1closed1033)
-const door1closed1033transform = new Transform({
-  position: new Vector3(0.5680008, -0.402, -0.2649994),
-  rotation: new Quaternion(0, 0.7071068, 0, 0.7071068),
-  scale: new Vector3(1, 1, 1)
-})
-door1closed1033.addComponentOrReplace(door1closed1033transform)
-const door1closed1033GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Door_01/Hallway_Module_Door_01.glb")
-door1closed1033GLTFShape.withCollisions = true
-door1closed1033GLTFShape.isPointerBlocker = true
-door1closed1033GLTFShape.visible = true
-door1closed1033.addComponentOrReplace(door1closed1033GLTFShape)
-
-// FILE WAS GENERATED BY DCL-EDIT
-// DO NOT MODIFY
-
-const door1button165 = new Entity("door_1_button")
-engine.addEntity(door1button165)
-const door1button165transform = new Transform({
-  position: new Vector3(-0.5890007, -0.368, 1.938),
-  rotation: new Quaternion(0, 0.7301622, 0, -0.6832739),
-  scale: new Vector3(1, 1, 1)
-})
-door1button165.addComponentOrReplace(door1button165transform)
-const door1button165GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/ButtonPanel_01/ButtonPanel_01.glb")
-door1button165GLTFShape.withCollisions = true
-door1button165GLTFShape.isPointerBlocker = true
-door1button165GLTFShape.visible = true
-door1button165.addComponentOrReplace(door1button165GLTFShape)
-
-// FILE WAS GENERATED BY DCL-EDIT
-// DO NOT MODIFY
-
 const hebelplatforms1080 = new Entity("hebel_platforms")
 engine.addEntity(hebelplatforms1080)
 const hebelplatforms1080transform = new Transform({
@@ -6185,7 +6151,11 @@ const hallwayModuleDoor01486transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01486.addComponentOrReplace(hallwayModuleDoor01486transform)
-hallwayModuleDoor01486.addComponentOrReplace(door1closed1033GLTFShape)
+const hallwayModuleDoor01486GLTFShape = new GLTFShape("assets_github/00_SciFi_Pack/Hallway_Module_Door_01/Hallway_Module_Door_01.glb")
+hallwayModuleDoor01486GLTFShape.withCollisions = true
+hallwayModuleDoor01486GLTFShape.isPointerBlocker = true
+hallwayModuleDoor01486GLTFShape.visible = true
+hallwayModuleDoor01486.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6198,7 +6168,7 @@ const hallwayModuleDoor01484transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01484.addComponentOrReplace(hallwayModuleDoor01484transform)
-hallwayModuleDoor01484.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01484.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6211,7 +6181,7 @@ const hallwayModuleDoor01485transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01485.addComponentOrReplace(hallwayModuleDoor01485transform)
-hallwayModuleDoor01485.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01485.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6224,7 +6194,7 @@ const hallwayModuleDoor01475transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01475.addComponentOrReplace(hallwayModuleDoor01475transform)
-hallwayModuleDoor01475.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01475.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6237,7 +6207,7 @@ const hallwayModuleDoor01474transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01474.addComponentOrReplace(hallwayModuleDoor01474transform)
-hallwayModuleDoor01474.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01474.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6250,7 +6220,7 @@ const hallwayModuleDoor01476transform = new Transform({
   scale: new Vector3(0.895, 1, 1)
 })
 hallwayModuleDoor01476.addComponentOrReplace(hallwayModuleDoor01476transform)
-hallwayModuleDoor01476.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01476.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6263,7 +6233,7 @@ const hallwayModuleDoor01477transform = new Transform({
   scale: new Vector3(0.895, 1, 1)
 })
 hallwayModuleDoor01477.addComponentOrReplace(hallwayModuleDoor01477transform)
-hallwayModuleDoor01477.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01477.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6276,7 +6246,7 @@ const hallwayModuleDoor01478transform = new Transform({
   scale: new Vector3(0.895, 1, 1)
 })
 hallwayModuleDoor01478.addComponentOrReplace(hallwayModuleDoor01478transform)
-hallwayModuleDoor01478.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01478.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6289,7 +6259,7 @@ const hallwayModuleDoor01480transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01480.addComponentOrReplace(hallwayModuleDoor01480transform)
-hallwayModuleDoor01480.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01480.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6302,7 +6272,7 @@ const hallwayModuleDoor01481transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01481.addComponentOrReplace(hallwayModuleDoor01481transform)
-hallwayModuleDoor01481.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01481.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6315,7 +6285,7 @@ const hallwayModuleDoor01482transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01482.addComponentOrReplace(hallwayModuleDoor01482transform)
-hallwayModuleDoor01482.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01482.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6328,7 +6298,7 @@ const hallwayModuleDoor01479transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01479.addComponentOrReplace(hallwayModuleDoor01479transform)
-hallwayModuleDoor01479.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01479.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -6341,7 +6311,7 @@ const hallwayModuleDoor01483transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01483.addComponentOrReplace(hallwayModuleDoor01483transform)
-hallwayModuleDoor01483.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01483.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -7664,7 +7634,7 @@ const hallwayModuleDoor01262transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01262.addComponentOrReplace(hallwayModuleDoor01262transform)
-hallwayModuleDoor01262.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01262.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -8265,7 +8235,7 @@ hallwayModuleDoor02215.addComponentOrReplace(hallwayModuleDoor02320GLTFShape)
 const hallwayModuleDoor02214 = new Entity("Hallway Module Door 02")
 engine.addEntity(hallwayModuleDoor02214)
 const hallwayModuleDoor02214transform = new Transform({
-  position: new Vector3(-2.972, 7.463, -0.9790001),
+  position: new Vector3(-3.242, 3.628, -0.9790001),
   rotation: new Quaternion(0, 0.7071068, 0, 0.7071068),
   scale: new Vector3(1, 1, 1)
 })
@@ -9061,7 +9031,7 @@ const hallwayModuleDoor01133transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor01133.addComponentOrReplace(hallwayModuleDoor01133transform)
-hallwayModuleDoor01133.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor01133.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -9246,7 +9216,7 @@ const hallwayModuleDoor011029transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor011029.addComponentOrReplace(hallwayModuleDoor011029transform)
-hallwayModuleDoor011029.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor011029.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -9259,7 +9229,7 @@ const hallwayModuleDoor011030transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor011030.addComponentOrReplace(hallwayModuleDoor011030transform)
-hallwayModuleDoor011030.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor011030.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -9504,7 +9474,7 @@ const hallwayModuleDoor011059transform = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 hallwayModuleDoor011059.addComponentOrReplace(hallwayModuleDoor011059transform)
-hallwayModuleDoor011059.addComponentOrReplace(door1closed1033GLTFShape)
+hallwayModuleDoor011059.addComponentOrReplace(hallwayModuleDoor01486GLTFShape)
 
 // FILE WAS GENERATED BY DCL-EDIT
 // DO NOT MODIFY
@@ -10172,8 +10142,6 @@ lightCube011022.setParent(flyingPlatform81056)
 roboter511.setParent(interactables1015)
 batteryRoboter510.setParent(roboter511)
 doors1031.setParent(interactables1015)
-door1closed1033.setParent(doors1031)
-door1button165.setParent(doors1031)
 hebelplatforms1080.setParent(interactables1015)
 hallwayModuleDoor01486.setParent(hauptgebaeude501)
 hallwayModuleDoor01484.setParent(hauptgebaeude501)
@@ -10434,4 +10402,42 @@ monitor011064.setParent(hauptgebaeude501)
 
 export let scene = {
 }
+
+//Markus -----------------------------------------------------------------------------------
+//Changes here and copy to scene.ts always / dcl-edit deletes code from scene.ts
+import { createChannel } from '../node_modules/decentraland-builder-scripts/channel'
+import { createInventory } from '../node_modules/decentraland-builder-scripts/inventory'
+import Script1 from "../door/src/item"
+import Script2 from "../lever/src/item"
+
+const verticalHallwayDoo = new Entity('verticalHallwayDoo')
+engine.addEntity(verticalHallwayDoo)
+const transform6 = new Transform({
+  position: new Vector3(7.471, 7.463, 26.951),
+  rotation: new Quaternion(0, 1, 0, 1),
+  scale: new Vector3(1, 1, 1)
+})
+verticalHallwayDoo.addComponentOrReplace(transform6)
+
+const scifiLeverConsole = new Entity('scifiLeverConsole')
+engine.addEntity(scifiLeverConsole)
+const transform7 = new Transform({
+  position: new Vector3(5.5,  7.463, 26.1),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1, 1, 1)
+})
+scifiLeverConsole.addComponentOrReplace(transform7)
+
+const channelId = Math.random().toString(16).slice(2)
+const channelBus = new MessageBus()
+const inventory = createInventory(UICanvas, UIContainerStack, UIImage)
+const options = { inventory }
+
+const script1 = new Script1()
+const script2 = new Script2()
+script1.init(options)
+script2.init(options)
+script1.spawn(verticalHallwayDoo, {"onOpen":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onClose":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, verticalHallwayDoo, channelBus))
+script2.spawn(scifiLeverConsole, {"onActivate":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onDeactivate":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, scifiLeverConsole, channelBus))
+
 

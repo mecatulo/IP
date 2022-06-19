@@ -6209,6 +6209,21 @@
             "name": "Dock Column 01",
             "id": "b94a7781-b848-4ef9-ac3d-6f427d7456b5",
             "gltfPath": "assets_github/00_SciFi_Pack/Dock_Column_02/Dock_Column_01.glb"
+        },
+        {
+            "name": "Door Sci Fi collider",
+            "id": "443d98a9-6674-4b70-959f-a27cd99cf9d0",
+            "gltfPath": "door/models/Door_SciFi_collider.glb"
+        },
+        {
+            "name": "Door Sci Fi Vertical",
+            "id": "7cf644cf-28cf-4242-9778-4c8da518af48",
+            "gltfPath": "door/models/Door_SciFi_Vertical.glb"
+        },
+        {
+            "name": "Lever Console",
+            "id": "97e3da41-81c1-49a4-a67d-e521970f3ccd",
+            "gltfPath": "lever/models/Lever_Console.glb"
         }
     ]
 }
