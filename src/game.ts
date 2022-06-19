@@ -102,12 +102,14 @@ import { createChannel } from '../node_modules/decentraland-builder-scripts/chan
 import { createInventory } from '../node_modules/decentraland-builder-scripts/inventory'
 import Script1 from "../door/src/item"
 import Script2 from "../lever/src/item"
+import Script3 from "../platform/src/item"
+import Script4 from "../bluebutton/src/item"
 
 const verticalHallwayDoo = new Entity('verticalHallwayDoo')
 engine.addEntity(verticalHallwayDoo)
 const transform6 = new Transform({
   position: new Vector3(7.471, 7.463, 26.951),
-  rotation: new Quaternion(0, 0.5, 0, 1),
+  rotation: new Quaternion(0, 1, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
 verticalHallwayDoo.addComponentOrReplace(transform6)
@@ -121,6 +123,24 @@ const transform7 = new Transform({
 })
 scifiLeverConsole.addComponentOrReplace(transform7)
 
+const verticalPlatform = new Entity('verticalPlatform')
+engine.addEntity(verticalPlatform)
+const transform8 = new Transform({
+  position: new Vector3(17, 17, 17),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1, 1, 1)
+})
+verticalPlatform.addComponentOrReplace(transform8)
+
+const blueLightButton = new Entity('blueLightButton')
+engine.addEntity(blueLightButton)
+const transform9 = new Transform({
+  position: new Vector3(41.3, 12.4, 16.3),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1, 1, 1)
+})
+blueLightButton.addComponentOrReplace(transform9)
+
 const channelId = Math.random().toString(16).slice(2)
 const channelBus = new MessageBus()
 const inventory = createInventory(UICanvas, UIContainerStack, UIImage)
@@ -128,9 +148,15 @@ const options = { inventory }
 
 const script1 = new Script1()
 const script2 = new Script2()
+const script3 = new Script3()
+const script4 = new Script4()
+
 script1.init(options)
 script2.init(options)
+script3.init(options)
+script4.init(options)
+
 script1.spawn(verticalHallwayDoo, {"onOpen":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onClose":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, verticalHallwayDoo, channelBus))
 script2.spawn(scifiLeverConsole, {"onActivate":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onDeactivate":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, scifiLeverConsole, channelBus))
-
-
+script3.spawn(verticalPlatform, {"distance":10,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform, channelBus))
+script4.spawn(blueLightButton, {"onClick":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueLightButton, channelBus))

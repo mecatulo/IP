@@ -6224,6 +6224,21 @@
             "name": "Lever Console",
             "id": "97e3da41-81c1-49a4-a67d-e521970f3ccd",
             "gltfPath": "lever/models/Lever_Console.glb"
+        },
+        {
+            "name": "Blue Sci Fi Button",
+            "id": "3fc20306-48ff-4b58-8311-eaf266ff177d",
+            "gltfPath": "bluebutton/models/Blue_SciFi_Button.glb"
+        },
+        {
+            "name": "Platform Sci Fi",
+            "id": "225d0223-3c69-4c06-a37b-6d9de2907494",
+            "gltfPath": "platform/models/Platform_SciFi.glb"
+        },
+        {
+            "name": "Vertical Platform Sci Fi",
+            "id": "d380934e-6656-4478-9f4b-2bb0c3493f7e",
+            "gltfPath": "platform/models/Vertical_Platform_SciFi.glb"
         }
     ]
 }
