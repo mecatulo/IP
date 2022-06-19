@@ -6239,6 +6239,21 @@
             "name": "Vertical Platform Sci Fi",
             "id": "d380934e-6656-4478-9f4b-2bb0c3493f7e",
             "gltfPath": "platform/models/Vertical_Platform_SciFi.glb"
+        },
+        {
+            "name": "Blue Access Card",
+            "id": "69df6fa4-8833-49a8-9181-fcd4175d03b4",
+            "gltfPath": "accesscard/models/Blue_Access_Card.glb"
+        },
+        {
+            "name": "Droid 01",
+            "id": "c08ab3d8-1285-44d4-850d-828c71909f81",
+            "gltfPath": "droid/Droid_01/Droid_01.glb"
+        },
+        {
+            "name": "Sign Square",
+            "id": "715d447f-e56d-4078-b164-34b82383f528",
+            "gltfPath": "sign/models/signpost/Sign_Square.glb"
         }
     ]
 }
