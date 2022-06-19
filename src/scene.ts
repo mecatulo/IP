@@ -10029,7 +10029,7 @@ scifiLeverConsole.addComponentOrReplace(transform7)
 const verticalPlatform = new Entity('verticalPlatform')
 engine.addEntity(verticalPlatform)
 const transform8 = new Transform({
-  position: new Vector3(17, 17, 17),
+  position: new Vector3(41, 1, 20),
   rotation: new Quaternion(0, 0, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
