@@ -123,15 +123,6 @@ const transform7 = new Transform({
 })
 scifiLeverConsole.addComponentOrReplace(transform7)
 
-const verticalPlatform = new Entity('verticalPlatform')
-engine.addEntity(verticalPlatform)
-const transform8 = new Transform({
-  position: new Vector3(17, 17, 17),
-  rotation: new Quaternion(0, 0, 0, 1),
-  scale: new Vector3(1, 1, 1)
-})
-verticalPlatform.addComponentOrReplace(transform8)
-
 const blueLightButton = new Entity('blueLightButton')
 engine.addEntity(blueLightButton)
 const transform9 = new Transform({
@@ -140,6 +131,78 @@ const transform9 = new Transform({
   scale: new Vector3(1, 1, 1)
 })
 blueLightButton.addComponentOrReplace(transform9)
+
+const verticalPlatform = new Entity('verticalPlatform')
+engine.addEntity(verticalPlatform)
+const transform20 = new Transform({
+  position: new Vector3(41, 0, 25),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform.addComponentOrReplace(transform20)
+
+const verticalPlatform2 = new Entity('verticalPlatform2')
+engine.addEntity(verticalPlatform2)
+const transform21 = new Transform({
+  position: new Vector3(42, 0, 31),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform2.addComponentOrReplace(transform21)
+
+const verticalPlatform3 = new Entity('verticalPlatform3')
+engine.addEntity(verticalPlatform3)
+const transform24 = new Transform({
+  position: new Vector3(43, 0, 37),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform3.addComponentOrReplace(transform24)
+
+const verticalPlatform4 = new Entity('verticalPlatform4')
+engine.addEntity(verticalPlatform4)
+const transform22 = new Transform({
+  position: new Vector3(44,1.5, 43),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform4.addComponentOrReplace(transform22)
+
+const verticalPlatform5 = new Entity('verticalPlatform5')
+engine.addEntity(verticalPlatform5)
+const transform11 = new Transform({
+  position: new Vector3(45, 1.5, 49),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform5.addComponentOrReplace(transform11)
+
+const verticalPlatform6 = new Entity('verticalPlatform6')
+engine.addEntity(verticalPlatform6)
+const transform12 = new Transform({
+  position: new Vector3(46, 1, 55),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform6.addComponentOrReplace(transform12)
+
+const verticalPlatform7 = new Entity('verticalPlatform7')
+engine.addEntity(verticalPlatform7)
+const transform13 = new Transform({
+  position: new Vector3(47, 2, 61),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform7.addComponentOrReplace(transform13)
+
+const verticalPlatform8 = new Entity('verticalPlatform8')
+engine.addEntity(verticalPlatform8)
+const transform14 = new Transform({
+  position: new Vector3(48, 17, 67),
+  rotation: new Quaternion(0, 0, 0, 1),
+  scale: new Vector3(1.2, 1.2, 1.2)
+})
+verticalPlatform8.addComponentOrReplace(transform14)
 
 const channelId = Math.random().toString(16).slice(2)
 const channelBus = new MessageBus()
@@ -158,5 +221,13 @@ script4.init(options)
 
 script1.spawn(verticalHallwayDoo, {"onOpen":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onClose":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, verticalHallwayDoo, channelBus))
 script2.spawn(scifiLeverConsole, {"onActivate":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onDeactivate":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, scifiLeverConsole, channelBus))
-script3.spawn(verticalPlatform, {"distance":10,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform, channelBus))
-script4.spawn(blueLightButton, {"onClick":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueLightButton, channelBus))
+script4.spawn(blueLightButton, {"onClick":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform2","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform3","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform4","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform5","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform6","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}},{"entityName":"verticalPlatform8","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueLightButton, channelBus))
+
+script3.spawn(verticalPlatform, {"distance":9,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform, channelBus))
+script3.spawn(verticalPlatform2, {"distance":10,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform2","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform2","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform2, channelBus))
+script3.spawn(verticalPlatform3, {"distance":11,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform3","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform3","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform3, channelBus))
+script3.spawn(verticalPlatform4, {"distance":10.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform4","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform4","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform4, channelBus))
+script3.spawn(verticalPlatform5, {"distance":11.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform5","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform5","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform5, channelBus))
+script3.spawn(verticalPlatform6, {"distance":12.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform6","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform6","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform6, channelBus))
+script3.spawn(verticalPlatform7, {"distance":12.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform7, channelBus))
+script3.spawn(verticalPlatform8, {"distance":9,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform8","actionId":"goToStart","values":{}}],"onReachStart":[{"entityName":"verticalPlatform8","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform8, channelBus))
