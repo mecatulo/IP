@@ -10010,6 +10010,8 @@ import Script4 from "../bluebutton/src/item"
 import Script5 from "../accesscard/src/item"
 import Script6 from "../sign/src/item"
 
+import Script7 from "../ballDroid/src/item"
+
 //Tür + Schalter -----------------------------------------
 
 const verticalHallwayDoo = new Entity('verticalHallwayDoo')
@@ -10136,16 +10138,18 @@ signpostTree.addComponentOrReplace(transform32)
 const ballDroid = new Entity('ballDroid')
 engine.addEntity(ballDroid)
 const transform33 = new Transform({
-  position: new Vector3(22, -0.1, 36),
-  rotation: new Quaternion(0.5, 0.5, 0.5, 1),
+  position: new Vector3(22, -0.1, 37),
+  rotation: new Quaternion(0, 1, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
 ballDroid.addComponentOrReplace(transform33)
-const gltfShape2 = new GLTFShape("droid/Droid_01/Droid_01.glb")
+/*const gltfShape2 = new GLTFShape("droid/Droid_01/Droid_01.glb")
 gltfShape2.withCollisions = true
 gltfShape2.isPointerBlocker = true
 gltfShape2.visible = true
-ballDroid.addComponentOrReplace(gltfShape2)
+ballDroid.addComponentOrReplace(gltfShape2)*/
+
+/*
 
 const channelId = Math.random().toString(16).slice(2)
 const channelBus = new MessageBus()
@@ -10159,12 +10163,16 @@ const script4 = new Script4()
 const script5 = new Script5()
 const script6 = new Script6()
 
-script1.init(options)
-script2.init(options)
-script3.init(options)
-script4.init(options)
+const script7 = new Script7()
+
+script1.init()
+script2.init()
+script3.init()
+script4.init()
 script5.init(options)
-script6.init(options)
+script6.init()
+
+script7.init()
 
 script1.spawn(verticalHallwayDoo, {"onOpen":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onClose":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, verticalHallwayDoo, channelBus))
 script2.spawn(scifiLeverConsole, {"onActivate":[{"entityName":"verticalHallwayDoo","actionId":"open","values":{}}],"onDeactivate":[{"entityName":"verticalHallwayDoo","actionId":"close","values":{}}]}, createChannel(channelId, scifiLeverConsole, channelBus))
@@ -10179,5 +10187,12 @@ script3.spawn(verticalPlatform6, {"distance":12.5,"speed":5,"autoStart":false,"o
 script3.spawn(verticalPlatform7, {"distance":12.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform7, channelBus))
 script3.spawn(verticalPlatform8, {"distance":9,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform8","actionId":"goToStart","values":{}}],"onReachStart":[{"entityName":"verticalPlatform8","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform8, channelBus))
 
-script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"signpostTree","actionId":"changeText","values":{"newText":"Running analysis....\nIt is... year... unknown...\nCalculating coordinates...\nRunning backup data...\nLocation update: MetaMars\n"}}]}, createChannel(channelId, blueAccessCard, channelBus))
+script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"signpostTree","actionId":"changeText","values":{"newText":"Running analysis....\nIt is... year... unknown...\nCalculating coordinates...\nRunning backup data...\nLocation update: MetaMars\n"}},{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
 script6.spawn(signpostTree, {"text":"Hmmm, seems like this little \n robot is broken. Maybe you \n will find a part around to \n fix it...","fontSize":25}, createChannel(channelId, signpostTree, channelBus))
+
+
+//-------------------------------------------------------------------------------------
+script7.spawn(ballDroid, {"distance":1,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, ballDroid, channelBus))
+//script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
+//-------------------------------------------------------------------------------------
+*/
