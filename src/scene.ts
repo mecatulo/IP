@@ -10194,5 +10194,19 @@ script6.spawn(signpostTree, {"text":"Hmmm, seems like this little \n robot is br
 //-------------------------------------------------------------------------------------
 script7.spawn(ballDroid, {"distance":1,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, ballDroid, channelBus))
 //script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
+
+const firstPersonView = new Entity()
+firstPersonView.addComponent(
+  new CameraModeArea({
+    area: { box: new Vector3(208, 128, 176) },
+    cameraMode: CameraMode.FirstPerson,
+  })
+)
+firstPersonView.addComponent(
+  new Transform({
+    position: new Vector3(-8, 0, -8),
+  })
+)
+engine.addEntity(firstPersonView)
 //-------------------------------------------------------------------------------------
 */
