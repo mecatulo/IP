@@ -143,7 +143,7 @@ signpostTree.addComponentOrReplace(transform32)
 const ballDroid = new Entity('ballDroid')
 engine.addEntity(ballDroid)
 const transform33 = new Transform({
-  position: new Vector3(22, -0.1, 37),
+  position: new Vector3(22, -0.3, 35),
   rotation: new Quaternion(0, 1, 0, 1),
   scale: new Vector3(1, 1, 1)
 })
@@ -154,6 +154,33 @@ gltfShape2.isPointerBlocker = true
 gltfShape2.visible = true
 ballDroid.addComponentOrReplace(gltfShape2)*/
 
+
+const galleryDoor = new Entity('galleryDoor')
+engine.addEntity(galleryDoor)
+const transform34 = new Transform({
+  position: new Vector3(7.471, 3.6, 21),
+  rotation: new Quaternion(1, 0, 1, 0),
+  scale: new Vector3(1, 1, 1)
+})
+galleryDoor.addComponentOrReplace(transform34)
+
+const towerLeverConsole = new Entity('towerLeverConsole')
+engine.addEntity(towerLeverConsole)
+const transform35 = new Transform({
+  position: new Vector3(44, 27.4, 70),
+  rotation: new Quaternion(0, 0.8, 0, 0.5),
+  scale: new Vector3(1, 1, 1)
+})
+towerLeverConsole.addComponentOrReplace(transform35)
+
+const neonSign = new Entity('neonSign')
+engine.addEntity(neonSign)
+const transform36 = new Transform({
+  position: new Vector3(7, 13, 27),
+  rotation: new Quaternion(0, 1, 0, 1),
+  scale: new Vector3(3.5, 3.5, 3.5)
+})
+neonSign.addComponentOrReplace(transform36)
 
 
 const channelId = Math.random().toString(16).slice(2)
@@ -192,18 +219,23 @@ script3.spawn(verticalPlatform6, {"distance":12.5,"speed":5,"autoStart":false,"o
 script3.spawn(verticalPlatform7, {"distance":12.5,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"verticalPlatform7","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform7, channelBus))
 script3.spawn(verticalPlatform8, {"distance":9,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"verticalPlatform8","actionId":"goToStart","values":{}}],"onReachStart":[{"entityName":"verticalPlatform8","actionId":"goToEnd","values":{}}]}, createChannel(channelId, verticalPlatform8, channelBus))
 
-/**/script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"signpostTree","actionId":"changeText","values":{"newText":"Running analysis....\nIt is... year... unknown...\nCalculating coordinates...\nRunning backup data...\nLocation update: MetaMars\n"}},{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
+script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"signpostTree","actionId":"changeText","values":{"newText":"Running analysis....\nIt is... year... unknown...\nCalculating coordinates...\nRunning backup data...\nLocation update: MetaMars\n"}},{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
 script6.spawn(signpostTree, {"text":"Hmmm, seems like this little \n robot is broken. Maybe you \n will find a part around to \n fix it...","fontSize":25}, createChannel(channelId, signpostTree, channelBus))
 
 
+//Marco
 //-------------------------------------------------------------------------------------
-script7.spawn(ballDroid, {"distance":1,"speed":5,"autoStart":false,"onReachEnd":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, ballDroid, channelBus))
-//script5.spawn(blueAccessCard, {"target":"ballDroid","respawns":true,"onUse":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, blueAccessCard, channelBus))
+script7.spawn(ballDroid, {"distance":1.5,"speed":30,"autoStart":false,"onReachEnd":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}],"onReachStart":[{"entityName":"ballDroid","actionId":"goToEnd","values":{}}]}, createChannel(channelId, ballDroid, channelBus))
+script1.spawn(galleryDoor, {"onOpen":[{"entityName":"galleryDoor","actionId":"open","values":{}}],"onClose":[{"entityName":"galleryDoor","actionId":"close","values":{}}]}, createChannel(channelId, galleryDoor, channelBus))
+script2.spawn(towerLeverConsole, {"onActivate":[{"entityName":"galleryDoor","actionId":"open","values":{}},{"entityName":"neonSign","actionId":"changeText","values":{"newText":"MetaMars"}}],"onDeactivate":[{"entityName":"galleryDoor","actionId":"close","values":{}}]}, createChannel(channelId, towerLeverConsole, channelBus))
+script6.spawn(neonSign, {"text":"","fontSize":72}, createChannel(channelId, neonSign, channelBus))
 
+
+//forcing players into fpv
 const firstPersonView = new Entity()
 firstPersonView.addComponent(
   new CameraModeArea({
-    area: { box: new Vector3(208, 128, 176) },
+    area: { box: new Vector3(208, 20, 176) },
     cameraMode: CameraMode.FirstPerson,
   })
 )
