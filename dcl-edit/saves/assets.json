@@ -6254,6 +6254,11 @@
             "name": "Sign Square",
             "id": "715d447f-e56d-4078-b164-34b82383f528",
             "gltfPath": "sign/models/signpost/Sign_Square.glb"
+        },
+        {
+            "name": "Droid 01",
+            "id": "5dd9f76c-113a-4c7f-a40b-713f17683cbe",
+            "gltfPath": "ballDroid/models/Droid_01/Droid_01.glb"
         }
     ]
 }

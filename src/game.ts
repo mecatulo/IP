@@ -193,6 +193,7 @@ script6.spawn(signpostTree, {"text":"Hmmm, seems like this little \n robot is br
 
 
 //-------------------------------------------------------------------------------------
+//
 const firstDoor = new Entity('firstDoor')
 engine.addEntity(firstDoor)
 const transformABC = new Transform({
